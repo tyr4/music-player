@@ -1,0 +1,15 @@
+{
+    "music_path": "some absolute path idk",
+    "width": 1400,
+    "height": 900,
+    "base_volume": 39,
+    "previous_song": null,
+    "next_song": null,
+    "modified_volumes": {
+    },
+    "modified_times": {
+    },
+    "song_stats": {
+    },
+    "total_played_counter": 11610816
+}
