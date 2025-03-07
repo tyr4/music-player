@@ -1087,7 +1087,7 @@ class MusicPlayer(QWidget):
             except:
                 config["song_stats"][self.currently_playing_file] = {'duration': int(self.player.playback_session.natural_duration.total_seconds()) * 1000,
                                                                      'number_of_plays': 1
-                                                                     }
+                                                                    }
             try:
                 if config['modified_times'][current_file]:
                     percentage = config['modified_times'][current_file]
