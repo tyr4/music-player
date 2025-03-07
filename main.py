@@ -1039,7 +1039,6 @@ class MusicPlayer(QWidget):
                 config['total_played_counter'] += remaining - self.prev_ms
             self.prev_ms = remaining
 
-
             self.progress_bar_slider.setValue(int((remaining / max(1, total)) * 100000))
             self.current_song_time_text.setText(Utils.secunda(round(remaining / 1000)))
             self.total_song_time_text.setText(Utils.secunda(round((total - remaining) / 1000)))
