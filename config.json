@@ -3,7 +3,7 @@
     "width": 1400,
     "height": 900,
     "base_volume": 39,
-    "previous_song": "C:/Users/Mihai/Music/Death Approaches.mp3",
+    "previous_song": "C:/Users/Mihai/Music/Vinland Saga - Opening 3  4K  60FPS  Creditless.mp3",
     "next_song": null,
     "modified_volumes": {
         "C:/Users/Mihai/Music/FateStay Night Heaven's Feel III Spring Song OST The four rings.mp3": 0.49,
@@ -454,7 +454,7 @@
         },
         "C:/Users/Mihai/Music/Vinland Saga - Opening 3  4K  60FPS  Creditless.mp3": {
             "duration": 120953,
-            "number_of_plays": 5
+            "number_of_plays": 6
         },
         "C:/Users/Mihai/Music/[ENG] Genshin CN 3rd Anniversary Light in the Abyss.mp3": {
             "duration": 285141,
@@ -502,7 +502,7 @@
         },
         "C:/Users/Mihai/Music/Falling in Reverse-Zombified (Audio).mp3": {
             "duration": 220102,
-            "number_of_plays": 15
+            "number_of_plays": 16
         },
         "C:/Users/Mihai/Music/[Nightcore] Move On Hirose.mp3": {
             "duration": 204591,
@@ -1273,5 +1273,5 @@
             "number_of_plays": 3
         }
     },
-    "total_played_counter": 20613816
+    "total_played_counter": 20971816
 }
