@@ -1365,6 +1365,7 @@ class Utils:
                 audio = video.streams.get_audio_only()
             except:
                 self.update_overlay_button(f"Couldn't get {title}")
+                return -1
             # except Exception as e:
             #     print(f"error at {e} {i} {title} ")
             #     continue
