@@ -1,0 +1,1277 @@
+{
+    "music_path": "C:/Users/Mihai/Music/",
+    "width": 1400,
+    "height": 900,
+    "base_volume": 39,
+    "previous_song": "C:/Users/Mihai/Music/Death Approaches.mp3",
+    "next_song": null,
+    "modified_volumes": {
+        "C:/Users/Mihai/Music/FateStay Night Heaven's Feel III Spring Song OST The four rings.mp3": 0.49,
+        "C:/Users/Mihai/Music/Death Approaches.mp3": 0.44,
+        "C:/Users/Mihai/Music/Termination of Desires.mp3": 0.46,
+        "C:/Users/Mihai/Music/FateGrand Order Babylonia OP  Opening v1\u300cUHD 60FPS\u300d.mp3": 0.46,
+        "C:/Users/Mihai/Music/\u4e8c\u5343\u5e74... \u82e5\u3057\u304f\u306f...\u4e8c\u4e07\u5e74\u5f8c\u306e\u541b\u3078 To you, in 2000...or 20000( Attack on Titan Final Ending ) Shania Yan Cover.mp3": 0.45,
+        "C:/Users/Mihai/Music/Nightcore - The Escapist.mp3": 0.44,
+        "C:/Users/Mihai/Music/[Nightcore] Move On Hirose.mp3": 0.46,
+        "C:/Users/Mihai/Music/Jojo's Bizarre Adventure Diamond is Unbreakable - Opening 1 (Creditless)  [HD].mp3": 0.45,
+        "C:/Users/Mihai/Music/Ave Mujica - \u7d20\u6674\u3089\u3057\u304d\u4e16\u754c \u3067\u3082 \u3069\u3053\u306b\u3082\u306a\u3044\u5834\u6240 (Official Music Video).m4a": 0.45,
+        "C:/Users/Mihai/Music/\u6653.mp3": 0.55,
+        "C:/Users/Mihai/Music/\u300e\u30c7\u30fc\u30c8\u30fb\u30a2\u30fb\u30e9\u30a4\u30d6\u2161\u300f \u30aa\u30fc\u30d7\u30cb\u30f3\u30b0\u6620\u50cf\uff5c10\u5468\u5e74\u8a18\u5ff5\uff01\u30b7\u30ea\u30fc\u30ba\uff2f\uff30\u6620\u50cf\u30ea\u30d0\u30a4\u30d0\u30eb\u914d\u4fe1\uff01.mp3": 0.5,
+        "C:/Users/Mihai/Music/Rage Beneath the Mountains.mp3": 0.45,
+        "C:/Users/Mihai/Music/Nilou Theme Music EXTENDED - Dance of the Delicate Lotus (tnbee mix)  Genshin Impact.mp3": 0.44,
+        "C:/Users/Mihai/Music/Imperial Circus Dead Decadence - \u9ec4\u6cc9\u3088\u308a\u8074\u3053\u3086\u3001\u7687\u56fd\u306e\u71c8\u3068\u7114\u306e\u5c11\u5973\u3002.mp3": 0.48,
+        "C:/Users/Mihai/Music/POP IN 2.mp3": 0.45,
+        "C:/Users/Mihai/Music/SawanoHiroyuki[nZk]Laco\u300cFAKEit\u300dMusic Video Fatestrange Fake -Whispers of Dawn- ver..mp3": 0.44,
+        "C:/Users/Mihai/Music/Attack on Titan Opening 2  Jiyuu no Tsubasa by Linked Horizon.mp3": 0.5,
+        "C:/Users/Mihai/Music/MAN WITH A MISSION\u00d7milet\u300c\u7d46\u30ce\u5947\u8de1\u300dMusic Video.mp3": 0.42,
+        "C:/Users/Mihai/Music/SawanoHiroyuki[nZk]Honoka Takahashi\u300eLilaS\u300f\u00d7TV\u30a2\u30cb\u30e1\u300c\uff18\uff16\u2015\u30a8\u30a4\u30c6\u30a3\u30b7\u30c3\u30af\u30b9\u2015\u300dCollaboration Movie.mp3": 0.39,
+        "C:/Users/Mihai/Music/Detarame Kidding.mp3": 0.44,
+        "C:/Users/Mihai/Music/TV\u30a2\u30cb\u30e1\u300c\u30b8\u30e7\u30b8\u30e7\u306e\u5947\u5999\u306a\u5192\u967a\u300d OP2\u3000\u6620\u50cf.mp3": 0.47,
+        "C:/Users/Mihai/Music/MADKID  SIN Music Video (TV\u30a2\u30cb\u30e1\u300c\u76fe\u306e\u52c7\u8005\u306e\u6210\u308a\u4e0a\u304c\u308a Season 3\u300d\u30aa\u30fc\u30d7\u30cb\u30f3\u30b0\u30c6\u30fc\u30de).mp3": 0.39,
+        "C:/Users/Mihai/Music/Parasyte Opening.mp3": 0.58,
+        "C:/Users/Mihai/Music/JoJo's Bizarre Adventure  Opening 6 - chase  4K Creditless HD.mp3": 0.46,
+        "C:/Users/Mihai/Music/TV\u30a2\u30cb\u30e1\u300cRe\u30bc\u30ed\u304b\u3089\u59cb\u3081\u308b\u7570\u4e16\u754c\u751f\u6d3b\u300d2nd season OP\u30c6\u30fc\u30de\u300cRealize\u300d\u30a2\u30cb\u30e1MV.mp3": 0.58,
+        "C:/Users/Mihai/Music/Story Teaser La vaguelette  Genshin Impact.mp3": 0.46,
+        "C:/Users/Mihai/Music/Hades - In the Blood (ft. Ashley Barrett).mp3": 0.49,
+        "C:/Users/Mihai/Music/Attack on Titan S3 OST - \u0259t\u02c8\u00e6k 0N t\u03ac\u026atn \uff1cWMId\uff1e.mp3": 0.43,
+        "C:/Users/Mihai/Music/\u3010Cover MV\u3011 Team Tomodachi \u3010hololive English -Advent-\u3011.mp3": 0.46,
+        "C:/Users/Mihai/Music/Deus Ex Machina.mp3": 0.41,
+        "C:/Users/Mihai/Music/Death Note - Opening 2 [4K 60FPS  Creditless  CC].mp3": 0.46,
+        "C:/Users/Mihai/Music/LiSA (\u7e54\u90e8 \u91cc\u6c99) - 'Gurenge' Lyrics [Color Coded KanRomIta].mp3": 0.39,
+        "C:/Users/Mihai/Music/5-toubun no Hanayome New Anime - Opening Full\u300eGotoubun no Mirai\u300fby Nakanoke no Itsutsugo.mp3": 0.39,
+        "C:/Users/Mihai/Music/medemede.mp3": 0.44,
+        "C:/Users/Mihai/Music/The Rising of the Shield Hero - Opening 2 [4K 60FPS  Creditless  CC].mp3": 0.45,
+        "C:/Users/Mihai/Music/Whirling of Vairambhaka.mp3": 0.44,
+        "C:/Users/Mihai/Music/Attack on Titan Season 2 Opening  Shinzou wo Sasageyo!.mp3": 0.56,
+        "C:/Users/Mihai/Music/The Future Diary - Ending 1 \u3010Blood Teller\u3011 4K  UHD Creditless  CC.mp3": 0.44,
+        "C:/Users/Mihai/Music/Inebriation of Raghs-e-Nilou.mp3": 0.48,
+        "C:/Users/Mihai/Music/\u300cCreditless\u300dCall of the Night OP  Opening\u300cUHD 60FPS\u300d.mp3": 0.39,
+        "C:/Users/Mihai/Music/Fatestay night Heaven's Feel III spring song OST - They Rule the battle field -Suite-.mp3": 0.45,
+        "C:/Users/Mihai/Music/Nightcore - Poylow, Harry Taylor, MAD SNAX - Drop In The Ocean - [Lyrics].mp3": 0.46,
+        "C:/Users/Mihai/Music/Nightcore - \u00c9lan.mp3": 0.44,
+        "C:/Users/Mihai/Music/\u300e\u30c7\u30fc\u30c8\u30fb\u30a2\u30fb\u30e9\u30a4\u30d6\u2162\u300f \u30aa\u30fc\u30d7\u30cb\u30f3\u30b0\u6620\u50cf\uff5c10\u5468\u5e74\u8a18\u5ff5\uff01\u30b7\u30ea\u30fc\u30ba\uff2f\uff30\u6620\u50cf\u30ea\u30d0\u30a4\u30d0\u30eb\u914d\u4fe1\uff01.mp3": 0.51,
+        "C:/Users/Mihai/Music/\u3010\u6771\u65b9\u3011Foreground Eclipse\u300cI Bet You'll Forget That Even If You Noticed That\u300d (Subbed).mp3": 0.44,
+        "C:/Users/Mihai/Music/Metal Gear Rising Revengeance OST I'm My Own Master Now ACOUSTIC INTRO.mp3": 0.44,
+        "C:/Users/Mihai/Music/Mirai NikkiFuture Diary - Opening 1 - HD - With Lyrics.mp3": 0.58,
+        "C:/Users/Mihai/Music/Fatestay night [Unlimited Blade Works] Aimer - Brave Shine [4K].mp3": 0.5,
+        "C:/Users/Mihai/Music/\u300e\u50d5\u306e\u30d2\u30fc\u30ed\u30fc\u30a2\u30ab\u30c7\u30df\u30a2\u300f\u30d2\u30ed\u30a2\u30ab7\u671f\u7b2c2\u30af\u30fc\u30ebOP\u30ce\u30f3\u30af\u30ec\u30b8\u30c3\u30c8\u6620\u50cf\uff0fOP\u30c6\u30fc\u30de\uff1a\u300c\u30ab\u30fc\u30c6\u30f3\u30b3\u30fc\u30eb\u300d\u512a\u91cc.mp3": 0.5,
+        "C:/Users/Mihai/Music/Cepheid - Gaia (feat. Nonon & Sithu Aye).mp3": 0.44,
+        "C:/Users/Mihai/Music/JUJUTSU KAISEN - Opening  Kaikai Kitan.mp3": 0.39,
+        "C:/Users/Mihai/Music/The Rising of the Shield Hero Season 2 - Opening  Bring Back.mp3": 0.39,
+        "C:/Users/Mihai/Music/Lord of Eroded Primal Fire \u2022 Archon Quest Exclusive Phase Boss Theme  Genshin Impact 5.3 OST.mp3": 0.58,
+        "C:/Users/Mihai/Music/Echo - Preferatul T\u0103u (Videoclip Oficial).mp3": 0.44,
+        "C:/Users/Mihai/Music/King Gnu - SPECIALZ.mp3": 0.41,
+        "C:/Users/Mihai/Music/The Final Feast.mp3": 0.46,
+        "C:/Users/Mihai/Music/One Punch Man - Official Opening - The Hero!! Set Fire to the Furious Fist.mp3": 0.51,
+        "C:/Users/Mihai/Music/TV\u30a2\u30cb\u30e1\u300c\u30c7\u30fc\u30c8\u30fb\u30a2\u30fb\u30e9\u30a4\u30d6\u2163\u300d\u30ce\u30f3\u30af\u30ec\u30b8\u30c3\u30c8OP\u6620\u50cf\uff5c\u5bcc\u7530\u7f8e\u6182\u300cOveR\u300d.mp3": 0.5,
+        "C:/Users/Mihai/Music/Vinland Saga OP  Opening 2 - Creditless  4K  60fps  Lyrics.mp3": 0.49,
+        "C:/Users/Mihai/Music/Raiden Shogun Battle Theme [All Phases] - Genshin Impact OST.mp3": 0.42,
+        "C:/Users/Mihai/Music/Nightcore - Where We Started (Bass Boosted) [SSN Free Release].mp3": 0.39,
+        "C:/Users/Mihai/Music/Cepheid - Lie of Providence (feat. @ZephyriannaCh).mp3": 0.44,
+        "C:/Users/Mihai/Music/Elogia Cinerosa.mp3": 0.5,
+        "C:/Users/Mihai/Music/ReZero Kara Hajimeru Isekai Seikatsu Opening 1 Creditless.mp3": 0.58,
+        "C:/Users/Mihai/Music/\u300cCreditless\u300dOne Punch Man OP  Opening 2\u300cUHD 60FPS\u300d.mp3": 0.44,
+        "C:/Users/Mihai/Music/The Almighty Violet Thunder \u2014 Magatsu Mitake Narukami no Mikoto Boss Theme  Genshin Impact OST.mp3": 0.44,
+        "C:/Users/Mihai/Music/Takayan - Cheating is a crime (\u6b4c\u8a5e\u30d3\u30c7\u30aa).mp3": 0.5,
+        "C:/Users/Mihai/Music/MADKID  SIN [Music Video] (TV\u30a2\u30cb\u30e1\u300c\u76fe\u306e\u52c7\u8005\u306e\u6210\u308a\u4e0a\u304c\u308a Season 3\u300d\u30aa\u30fc\u30d7\u30cb\u30f3\u30b0\u30c6\u30fc\u30de).mp3": 0.44,
+        "C:/Users/Mihai/Music/SiM - UNDER THE TREE (Full Length Ver.) Anime Special Ver..mp3": 0.39,
+        "C:/Users/Mihai/Music/Nightcore - Bring Me To Life.mp3": 0.44,
+        "C:/Users/Mihai/Music/Attack on Titan - Opening 4  4K  60FPS  Creditless .mp3": 0.46,
+        "C:/Users/Mihai/Music/\u3010\u6771\u65b9\u3011Bad Apple!! \uff30\uff36\u3010\u5f71\u7d75\u3011.mp3": 0.39,
+        "C:/Users/Mihai/Music/My Hero Academia Opening 1  The Day.mp3": 0.57,
+        "C:/Users/Mihai/Music/\u300c\u304b\u3050\u3084\u69d8\u306f\u544a\u3089\u305b\u305f\u3044-\u30a6\u30eb\u30c8\u30e9\u30ed\u30de\u30f3\u30c6\u30a3\u30c3\u30af-\u300d\u30aa\u30fc\u30d7\u30cb\u30f3\u30b0\u6620\u50cf \u266a\u9234\u6728\u96c5\u4e4b feat. \u3059\u3045\u300cGIRI GIRI\u300d.mp3": 0.46,
+        "C:/Users/Mihai/Music/Classroom of the Elite - Opening  Caste Room.mp3": 0.51,
+        "C:/Users/Mihai/Music/Kaguya-sama Love Is War_ Opening Theme (Limited Time Only).mp3": 0.46,
+        "C:/Users/Mihai/Music/Classroom of the Elite Season 3 - Opening  Minor Piece.mp3": 0.5,
+        "C:/Users/Mihai/Music/JoJo's Bizarre Adventure Opening 4 Full\u300eSONO CHI NO KIOKU ~END OF THE WORLD~\u300f.mp3": 0.39,
+        "C:/Users/Mihai/Music/JoJo's Bizarre Adventure  Opening 7 - Great Days  4K Creditless HD.mp3": 0.45,
+        "C:/Users/Mihai/Music/[Genshin Impact 2nd Anniversary] Epoch Winter Tales of the Fatui.mp3": 0.44,
+        "C:/Users/Mihai/Music/Dance of Sabzeruz.mp3": 0.47,
+        "C:/Users/Mihai/Music/\u30a2\u30cb\u30e1\u300c\u30b8\u30e7\u30b8\u30e7\u306e\u5947\u5999\u306a\u5192\u967a \u30b9\u30c8\u30fc\u30f3\u30aa\u30fc\u30b7\u30e3\u30f3\u300dOP\u6620\u50cf.mp3": 0.48,
+        "C:/Users/Mihai/Music/Blazing Heart (English Version).mp3": 0.46,
+        "C:/Users/Mihai/Music/Ave Mujica - \u3075\u305f\u3064\u306e\u6708  ~Deep Into The Forest~ (Official Music Video).m4a": 0.46,
+        "C:/Users/Mihai/Music/All Devouring Narwhal Boss Theme  OST  Genshin Impact.mp3": 0.45,
+        "C:/Users/Mihai/Music/The Quintessential Quintuplets Season 2 - Opening Full\u300eGotoubun no Katachi\u300fby Nakanoke no Itsutsugo.mp3": 0.54,
+        "C:/Users/Mihai/Music/\u4e94\u7b49\u5206\u306e\u6c17\u6301\u3061.mp3": 0.39,
+        "C:/Users/Mihai/Music/Nightcore - The Resistance (Skillet) - (Lyrics).mp3": 0.45,
+        "C:/Users/Mihai/Music/JUJUTSU KAISEN Opening  Kaikai Kitan.mp3": 0.39,
+        "C:/Users/Mihai/Music/Note of Effective Settlements.mp3": 0.44,
+        "C:/Users/Mihai/Music/JUJUTSU KAISEN Opening  Kaikai Kitan by Eve.mp3": 0.39,
+        "C:/Users/Mihai/Music/Nightcore- Royalty.mp3": 0.44,
+        "C:/Users/Mihai/Music/Hiroyuki Sawano  \u201cAttack on Titan\u201d Vogel im k\u00e4fig live YOUSEEBIGGIRLTT.mp3": 0.5,
+        "C:/Users/Mihai/Music/No Game No Life -My Master My Lord - Jibril Song.mp3": 0.39,
+        "C:/Users/Mihai/Music/Death Note - Opening [4K].mp3": 0.44,
+        "C:/Users/Mihai/Music/Demon Slayer Mugen Train Opening (Full) -Akeboshi- Lyrics.mp3": 0.39,
+        "C:/Users/Mihai/Music/Demon Slayer - Opening 5  4K  60FPS  Tv-Size  CC.mp3": 0.51,
+        "C:/Users/Mihai/Music/A Dramatic Irony.mp3": 0.48,
+        "C:/Users/Mihai/Music/New Years Day - Angel Eyes [HQ].mp3": 0.44,
+        "C:/Users/Mihai/Music/Nightcore - MONSTER - (Lyrics).mp3": 0.44,
+        "C:/Users/Mihai/Music/Falling in Reverse-Zombified (Audio).mp3": 0.43,
+        "C:/Users/Mihai/Music/Miss Kobayashi's Dragon Maid S - Opening  Ai no Supreme!.mp3": 0.51,
+        "C:/Users/Mihai/Music/Blazing Heart (feat. Mikako Komatsu) (Japanese Version).mp3": 0.46,
+        "C:/Users/Mihai/Music/SawanoHiroyuki[nZk]Laco\u300cHands Up to the Sky\u300dMusic Video \uff18\uff16\u2015\u30a8\u30a4\u30c6\u30a3\u30b7\u30c3\u30af\u30b9\u2015 ver..mp3": 0.44,
+        "C:/Users/Mihai/Music/FateApocrypha Opening 1 English Subtitles [HD 1080p] \u300eEGOIST - Eiyuu Unmei no Uta\u300f.mp3": 0.44,
+        "C:/Users/Mihai/Music/Non si levava ancor.mp3": 0.48,
+        "C:/Users/Mihai/Music/Polumnia Omnia.mp3": 0.46,
+        "C:/Users/Mihai/Music/Nightcore - Burn It All Down (Lyrics).mp3": 0.44,
+        "C:/Users/Mihai/Music/La Signora Battle Theme [All Phases] - Genshin Impact OST.mp3": 0.44,
+        "C:/Users/Mihai/Music/Attack on Titan Season 2 - Opening  Shinzou wo Sasageyo!.mp3": 0.5,
+        "C:/Users/Mihai/Music/[MV] REOL - \u5bb5\u3005\u53e4\u4eca  YoiYoi Kokon.mp3": 0.44,
+        "C:/Users/Mihai/Music/Kafka Theme Music EXTENDED - A Dramatic Irony (tnbee mix)  Honkai Star Rail.mp3": 0.44,
+        "C:/Users/Mihai/Music/No Ceiling.mp3": 0.46,
+        "C:/Users/Mihai/Music/\u300e\u8ee2\u751f\u6797\u6a8e\u300fCovered by Roselia\u00d7\uff0b\u03b1\uff0f\u3042\u308b\u3075\u3041\u304d\u3085\u3093\u3002PV\uff08\u30d5\u30eb\u30b5\u30a4\u30baver.\uff09\u3010\u30a8\u30af\u30b9\u30c8\u30e9\u697d\u66f2\u3011.mp3": 0.46,
+        "C:/Users/Mihai/Music/Stone Ocean OP 3 V2  4K 60 FPS  Heaven's Falling Down  JoJo's Bizarre Adventure Part 6.mp3": 0.44,
+        "C:/Users/Mihai/Music/Nightcore - Courtesy Call.mp3": 0.44,
+        "C:/Users/Mihai/Music/Gender mich am A.....mp3": 0.44,
+        "C:/Users/Mihai/Music/Redo.mp3": 0.44,
+        "C:/Users/Mihai/Music/TV\u30a2\u30cb\u30e1\u300cRe\u30bc\u30ed\u304b\u3089\u59cb\u3081\u308b\u7570\u4e16\u754c\u751f\u6d3b\u300d2nd season \u5f8c\u671fED\u30c6\u30fc\u30de\u300cBelieve in you\u300d nonoc \u8996\u8074\u52d5\u753b.mp3": 0.51,
+        "C:/Users/Mihai/Music/\u3010\u539f\u795e\u30a2\u30cb\u30e1\u3011\u80e1\u6843\u3067\u63a8\u3057\u306e\u5b50\u306eMV\u3092\u63cf\u3044\u3066\u307f\u305f\u3010Genshin Anime\u3011.mp3": 0.47,
+        "C:/Users/Mihai/Music/\u30d5\u30a1\u30bf\u30fc\u30eb  GEMN - Fatal  GEMN.mp3": 0.39,
+        "C:/Users/Mihai/Music/Holy Shit.mp3": 0.44,
+        "C:/Users/Mihai/Music/Ave Mujica - \u9ed2\u306e\u30d0\u30fc\u30b9\u30c7\u30a4 (Official Music Video).m4a": 0.46,
+        "C:/Users/Mihai/Music/\u300cCreditless\u300dFateZero OP  Opening 1\u300cUHD 60FPS\u300d.mp3": 0.44,
+        "C:/Users/Mihai/Music/Cepheid - Tides (feat. @ZephyriannaCh & @unit.0 ).mp3": 0.44,
+        "C:/Users/Mihai/Music/\u25e4\u30ce\u30f3\u30af\u30ec\u30b8\u30c3\u30c8OP\u6620\u50cf\u25e2\u30a2\u30cb\u30e1\u300c\u795e\u306f\u904a\u622f\u306b\u98e2\u3048\u3066\u3044\u308b\u3002\u300d\uff5cAliA\u300cNewGame\u300d.mp3": 0.58,
+        "C:/Users/Mihai/Music/Miss Kobayashi's Dragon Maid S Opening  Ai no Supreme!.mp3": 0.39,
+        "C:/Users/Mihai/Music/Nightcore - VILLAIN (Lyrics).mp3": 0.44,
+        "C:/Users/Mihai/Music/\u300eSPY\u00d7FAMILY\u300f\u7b2c2\u30af\u30fc\u30eb\u30aa\u30fc\u30d7\u30cb\u30f3\u30b0\u4e3b\u984c\u6b4c\u30a2\u30cb\u30e1\u6620\u50cf(\u30ce\u30f3\u30af\u30ec\u30b8\u30c3\u30c8)\uff0f\u201cSPY x FAMILY\u201d part2  Opening theme song animation.mp3": 0.39,
+        "C:/Users/Mihai/Music/Nightcore - Awake and Alive [Skillet].mp3": 0.44,
+        "C:/Users/Mihai/Music/TV\u30a2\u30cb\u30e1\u300cRe\u30bc\u30ed\u304b\u3089\u59cb\u3081\u308b\u7570\u4e16\u754c\u751f\u6d3b\u300d2nd season ED\u30c6\u30fc\u30de\u300cMemento\u300d\u30a2\u30cb\u30e1MV.mp3": 0.58,
+        "C:/Users/Mihai/Music/Shingeki no Kyojin Season 3 Part 2 Op Attack on Titan Season 3 Part 2 Op \u300eHD\u300f.mp3": 0.44,
+        "C:/Users/Mihai/Music/TV\u30a2\u30cb\u30e1\u300e\u30ea\u30b3\u30ea\u30b9\u30fb\u30ea\u30b3\u30a4\u30eb\u300f\u30ce\u30f3\u30c6\u30ed\u30c3\u30d7OP\u30e0\u30fc\u30d3\u30fc\uff5cClariS\u300cALIVE\u300d.mp3": 0.44,
+        "C:/Users/Mihai/Music/TV\u30a2\u30cb\u30e1\u300e\u76fe\u306e\u52c7\u8005\u306e\u6210\u308a\u4e0a\u304c\u308a Season 3\u300f\u30104K\u3011\u30ce\u30f3\u30af\u30ec\u30b8\u30c3\u30c8\u30aa\u30fc\u30d7\u30cb\u30f3\u30b0\u6620\u50cf\uff5cMADKID\u300cSIN\u300d.mp3": 0.39,
+        "C:/Users/Mihai/Music/Nightcore - GODS (Lyrics) (ft. NewJeans).mp3": 0.39,
+        "C:/Users/Mihai/Music/Emberfire (feat. \u5e0c\u6797\u5a1c\u4f9d\u9ad8).mp3": 0.44,
+        "C:/Users/Mihai/Music/GRIMOIRE.mp3": 0.44,
+        "C:/Users/Mihai/Music/The Rising of the Shield Hero - Opening 1 [4K 60FPS  Creditless  CC].mp3": 0.46,
+        "C:/Users/Mihai/Music/1.2 Phantylia the Undying - All Phase Boss Fight OST  Honkai Star Rail.mp3": 0.44,
+        "C:/Users/Mihai/Music/\u3010Shiki Miyoshino  \u7f8e\u5409\u91ce\u3057\u304d\u3011I wanna kill you  \u6b7b\u306b\u305f\u3044\u3088\u308a\u6d88\u3048\u305f\u3044\u4eba\u306e\u66f2 - Takayan\u3010Cover\u3011.mp3": 0.39,
+        "C:/Users/Mihai/Music/Nightcore -  It's Over When It's Over.mp3": 0.44,
+        "C:/Users/Mihai/Music/Oshi no Ko Opening 1 (4k 60FPS)\u2503Creditless.mp3": 0.45,
+        "C:/Users/Mihai/Music/Time to Shine.mp3": 0.39,
+        "C:/Users/Mihai/Music/TV\u30a2\u30cb\u30e1\u300e\u76fe\u306e\u52c7\u8005\u306e\u6210\u308a\u4e0a\u304c\u308a Season 3\u300f\u30ce\u30f3\u30af\u30ec\u30b8\u30c3\u30c8\u30a8\u30f3\u30c7\u30a3\u30f3\u30b0\u6620\u50cf\uff5c\u85e4\u5ddd\u5343\u611b\u300c\u597d\u304d\u306b\u306a\u3063\u3066\u306f\u3044\u3051\u306a\u3044\u7406\u7531\u300d.mp3": 0.45,
+        "C:/Users/Mihai/Music/TV\u30a2\u30cb\u30e1\u300cRe\u30bc\u30ed\u304b\u3089\u59cb\u3081\u308b\u7570\u4e16\u754c\u751f\u6d3b\u300d2nd season \u5f8c\u671fOP\u30c6\u30fc\u30de\u300cLong shot\u300d\u524d\u5cf6\u9ebb\u7531 \u30a2\u30cb\u30e1\u8996\u8074\u52d5\u753b.mp3": 0.44,
+        "C:/Users/Mihai/Music/My Hero Academia - Opening 1  The Day.mp3": 0.39,
+        "C:/Users/Mihai/Music/Nightcore - Rise (Skillet) - (Lyrics).mp3": 0.46,
+        "C:/Users/Mihai/Music/Attack on Titan S3 OST - Apple Seed (Extended).mp3": 0.39,
+        "C:/Users/Mihai/Music/[ENG] Genshin CN 3rd Anniversary Light in the Abyss.mp3": 0.44,
+        "C:/Users/Mihai/Music/Re  Zero kara Hajimeru Isekai Seikatsu OP  Opening 2 UHD   60FPS.mp3": 0.39,
+        "C:/Users/Mihai/Music/Coda - Fighting Gold Creditless FullHD.mp3": 0.44,
+        "C:/Users/Mihai/Music/\u7c73\u6d25\u7384\u5e2b Kenshi Yonezu - KICKBACK.mp3": 0.44,
+        "C:/Users/Mihai/Music/Tokoshie.mp3": 0.44,
+        "C:/Users/Mihai/Music/[MV] REOL - \u30ae\u30df\u30a2\u30d6\u30ec\u30b9\u30bf\u30c3\u30ca\u30a6 Give me a break Stop now.mp3": 0.44,
+        "C:/Users/Mihai/Music/Last Stardust.mp3": 0.39,
+        "C:/Users/Mihai/Music/TV\u30a2\u30cb\u30e1\u300c\u9032\u6483\u306e\u5de8\u4eba\u300dThe Final Season Part 2\u30ce\u30f3\u30af\u30ec\u30b8\u30c3\u30c8OP \uff5cSiM\u300cThe Rumbling\u300d.mp3": 0.39,
+        "C:/Users/Mihai/Music/Attack on Titan \u2013 Opening 2  Jiyuu no Tsubasa.mp3": 0.5,
+        "C:/Users/Mihai/Music/It Has To Be This Way.mp3": 0.39,
+        "C:/Users/Mihai/Music/\u308d\u3093\u308a\u306d\u3059\uff01 \u305f\u304b\u3084\u3093 (Official Music Video).mp3": 0.44,
+        "C:/Users/Mihai/Music/The Quintessential Quintuplets Movie - Theme Song Full\u300eGotoubun no Kiseki\u300fby Nakanoke no Itsutsugo.mp3": 0.39,
+        "C:/Users/Mihai/Music/TV\u30a2\u30cb\u30e1\u300c\u304b\u3050\u3084\u69d8\u306f\u544a\u3089\u305b\u305f\u3044-\u30d5\u30a1\u30fc\u30b9\u30c8\u30ad\u30c3\u30b9\u306f\u7d42\u308f\u3089\u306a\u3044-\u300d\u30ce\u30f3\u30af\u30ec\u30b8\u30c3\u30c8\u30aa\u30fc\u30d7\u30cb\u30f3\u30b0\u6620\u50cf  \u300cLove is Show\u300d#\u9234\u6728\u96c5\u4e4b feat. #\u9ad8\u57ce\u308c\u306b.mp3": 0.52,
+        "C:/Users/Mihai/Music/Kimetsu no Yaiba Season 3 - Opening FULL Kizuna no Kiseki by MAN WITH A MISSION x milet (Lyrics).mp3": 0.42,
+        "C:/Users/Mihai/Music/\u300cCreditless\u300dFrieren Beyond Journey's End OP  Opening 1\u300cUHD 60FPS\u300d.mp3": 0.46,
+        "C:/Users/Mihai/Music/86 EIGHTY-SIX - Opening 2  Kyokaisen.mp3": 0.57,
+        "C:/Users/Mihai/Music/Kaguya-sama Love is War - Opening 1 [4K 60FPS  Creditless  CC].mp3": 0.39,
+        "C:/Users/Mihai/Music/Fate Stay Night Unlimited Blade Works OP 01 IDEAL WHITE.mp3": 0.44,
+        "C:/Users/Mihai/Music/86 EIGHTY-SIX - Opening 1  3-bun 29-byo.mp3": 0.48,
+        "C:/Users/Mihai/Music/Novatio Novena.mp3": 0.44,
+        "C:/Users/Mihai/Music/Vinland Saga OP  Opening 4 - Creditless  4K  60fps  Lyrics.mp3": 0.44,
+        "C:/Users/Mihai/Music/fategrand order \u7d76\u5bfe\u9b54\u7363\u6226\u7dda\u30d0\u30d3\u30ed\u30cb\u30a2\u3000op.mp3": 0.46,
+        "C:/Users/Mihai/Music/\u30e9\u30fb\u30bf\u30bf\u30f3.mp3": 0.44,
+        "C:/Users/Mihai/Music/STAND PROUD.mp3": 0.39,
+        "C:/Users/Mihai/Music/Focalors Sacrifice Theme (Sinner's Finale Cutscene)  Genshin Impact [HQ Cover].mp3": 0.39,
+        "C:/Users/Mihai/Music/[Genshin Music Anime] The Knave- Arlecchino Between Heaven and Hell.mp3": 0.44,
+        "C:/Users/Mihai/Music/Date A Live - Opening  Date a Live.mp3": 0.58,
+        "C:/Users/Mihai/Music/Blossoms of Summer Night.mp3": 0.44,
+        "C:/Users/Mihai/Music/\u300cCreditless\u300dFrieren Beyond Journey's End OP  Opening 2\u300cUHD 60FPS\u300d.mp3": 0.48,
+        "C:/Users/Mihai/Music/JoJo's Bizarre Adventure  Phantom Blood - Opening 1 HD Creditless\u300eSono Chi No Sadame\u300f.mp3": 0.39,
+        "C:/Users/Mihai/Music/Wildfire.mp3": 0.39,
+        "C:/Users/Mihai/Music/Oshi no Ko - Opening Full\u300eIDOL\u300fby YOASOBI (Lyrics).mp3": 0.39,
+        "C:/Users/Mihai/Music/\u266bNightcore\u266b On My Own [Ashes Remain].mp3": 0.39,
+        "C:/Users/Mihai/Music/Aimer \u300c\u6b8b\u97ff\u6563\u6b4c\u300d (Zankyou Sanka) Kimetsu no Yaiba Yuukaku-hen Opening Lyrics [Kan_Rom_Eng].mp3": 0.39,
+        "C:/Users/Mihai/Music/FateApocrypha Opening 2 English Subtitles [HD 1080p] \u300eLiSA - ASH\u300f.mp3": 0.44,
+        "C:/Users/Mihai/Music/Genshin Impact - Warden of the Oasis (God-Devouring Mania) Boss Fight Ost.mp3": 0.39,
+        "C:/Users/Mihai/Music/TV\u30a2\u30cb\u30e1\u300e\u30c7\u30fc\u30c8\u30fb\u30a2\u30fb\u30e9\u30a4\u30d6V\u300f\u30ce\u30f3\u30af\u30ec\u30b8\u30c3\u30c8\u30aa\u30fc\u30d7\u30cb\u30f3\u30b0\u30c6\u30fc\u30de\u6620\u50cf\uff5c\u5bcc\u7530\u7f8e\u6182\u300cParadoxes\u300d.mp3": 0.5,
+        "C:/Users/Mihai/Music/Attack on Titan Opening 6 \u2014 My War [1080p 60FPS].mp3": 0.44,
+        "C:/Users/Mihai/Music/Vinland Saga - Opening 3  4K  60FPS  Creditless.mp3": 0.46,
+        "C:/Users/Mihai/Music/Cepheid - Goddess (feat. Nonon).mp3": 0.44,
+        "C:/Users/Mihai/Music/Classroom of the Elite Season 2 - Opening  Dance in the Game.mp3": 0.58,
+        "C:/Users/Mihai/Music/\u3010\u63a8\u3057\u306e\u5b50\u3011\u7b2c2\u671f\u30ce\u30f3\u30af\u30ec\u30b8\u30c3\u30c8\u30aa\u30fc\u30d7\u30cb\u30f3\u30b0\uff5cGEMN\u300c\u30d5\u30a1\u30bf\u30fc\u30eb\u300d.mp3": 0.39,
+        "C:/Users/Mihai/Music/Cepheid - Catch Wind (feat. @un3hcorn ) [Touhou Arrange].mp3": 0.39,
+        "C:/Users/Mihai/Music/JoJo's Bizarre Adventure Opening 9 Full\u300eTRAITOR'S REQUIEM\u300f.mp3": 0.39,
+        "C:/Users/Mihai/Music/Todesliste.mp3": 0.44,
+        "C:/Users/Mihai/Music/EP Samudrartha  Honkai Star Rail.mp3": 0.39,
+        "C:/Users/Mihai/Music/\u521d\u661f\u5b66\u5712 \u300cFighting My Way\u300dOfficial Music Video (HATSUBOSHI GAKUEN - Fighting My Way).mp3": 0.44,
+        "C:/Users/Mihai/Music/Nightcore - In The Middle Of The Night [HD].mp3": 0.39,
+        "C:/Users/Mihai/Music/\u3086\u30fc\u308c\u3044\u305a\u307f\u30fc.mp3": 0.44,
+        "C:/Users/Mihai/Music/Vinland Saga Opening 1 60FPS  4K.mp3": 0.46,
+        "C:/Users/Mihai/Music/Shirasagi Princess.mp3": 0.39,
+        "C:/Users/Mihai/Music/\u3010\u63a8\u3057\u306e\u5b50\u3011STAR\u2606T\u2606RAIN\u65b0\u751fB\u5c0f\u753a\u3010\u7b2c\u5341\u4e00\u8a71\u300c\u30a2\u30a4\u30c9\u30eb\u300d\u633f\u5165\u6b4c\u3011.mp3": 0.39,
+        "C:/Users/Mihai/Music/Kaguya-sama Love Is War Opening Theme (Limited Time Only).mp3": 0.39,
+        "C:/Users/Mihai/Music/Lotus of Haftkarsvar.mp3": 0.48,
+        "C:/Users/Mihai/Music/\u3010Original\u3011Countach\u8f5f\u306f\u3058\u3081\u3010Official MV\u3011.m4a": 0.46,
+        "C:/Users/Mihai/Music/No Dazzle, No Break.m4a": 0.46,
+        "C:/Users/Mihai/Music/Kaguya-sama Love Is War Opening Theme (Limited Time Only).m4a": 0.46,
+        "C:/Users/Mihai/Music/\u3010\u516c\u5f0f\u30e9\u30a4\u30d6\u6620\u50cf\u3011Ave Mujica\u300cKiLLKiSS\u300d\uff08Ave Mujica 4th LIVE\u300cAdventus\u300d\uff09\u3010\u671f\u9593\u9650\u5b9a\u3011.m4a": 0.58,
+        "C:/Users/Mihai/Music/\u3010MV\u3011Odyssey - Hololive English (Original Song).m4a": 0.5,
+        "C:/Users/Mihai/Music/Aimer \u300c\u6b8b\u97ff\u6563\u6b4c\u300d (Zankyou Sanka) Kimetsu no Yaiba Yuukaku-hen Opening Lyrics [Kan_Rom_Eng].m4a": 0.39,
+        "C:/Users/Mihai/Music/Aimer \u300c\u6b8b\u97ff\u6563\u6b4c\u300d (Zankyou Sanka) Kimetsu no Yaiba Yuukaku-hen Opening Lyrics [KanRomEng].mp3": 0.39,
+        "C:/Users/Mihai/Music/\u6653.m4a": 0.51,
+        "C:/Users/Mihai/Music/Attack on Titan Opening 1  Feuerroter Pfeil und Bogen.m4a": 0.52,
+        "C:/Users/Mihai/Music/Ave Mujica - Choir \u2018S\u2019 Choir (Official Music Video).m4a": 0.45,
+        "C:/Users/Mihai/Music/Nippy Bout.m4a": 0.45,
+        "C:/Users/Mihai/Music/Roselia\u00d7\u3044\u3068\u3046\u304b\u306a\u3053\u300e\u30b9\u30ab\u30a4\u30af\u30e9\u30c3\u30c9\u306e\u89b3\u6e2c\u8005\u300fPV\uff08\u30d5\u30eb\u30b5\u30a4\u30baver.\uff09\u3010\u30a8\u30af\u30b9\u30c8\u30e9\u697d\u66f2\u3011.m4a": 0.44
+    },
+    "modified_times": {
+        "C:/Users/Mihai/Music/[Nightcore] Move On Hirose.mp3": [
+            0.0,
+            1.0
+        ],
+        "C:/Users/Mihai/Music/\u3010\u63a8\u3057\u306e\u5b50\u3011STAR\u2606T\u2606RAIN\u65b0\u751fB\u5c0f\u753a\u3010\u7b2c\u5341\u4e00\u8a71\u300c\u30a2\u30a4\u30c9\u30eb\u300d\u633f\u5165\u6b4c\u3011.mp3": [
+            0,
+            1.0
+        ],
+        "C:/Users/Mihai/Music/The Almighty Violet Thunder \u2014 Magatsu Mitake Narukami no Mikoto Boss Theme  Genshin Impact OST.mp3": [
+            0,
+            1.0
+        ],
+        "C:/Users/Mihai/Music/Ave Mujica - \u9ed2\u306e\u30d0\u30fc\u30b9\u30c7\u30a4 (Official Music Video).m4a": [
+            0.0,
+            0.95
+        ],
+        "C:/Users/Mihai/Music/Polumnia Omnia.mp3": [
+            0,
+            1.0
+        ],
+        "C:/Users/Mihai/Music/All Devouring Narwhal Boss Theme  OST  Genshin Impact.mp3": [
+            0.0,
+            1.0
+        ],
+        "C:/Users/Mihai/Music/Vinland Saga - Opening 3  4K  60FPS  Creditless.mp3": [
+            0.0,
+            0.76
+        ],
+        "C:/Users/Mihai/Music/\u300cCreditless\u300dFrieren Beyond Journey's End OP  Opening 1\u300cUHD 60FPS\u300d.mp3": [
+            0.0,
+            0.74
+        ],
+        "C:/Users/Mihai/Music/The Rising of the Shield Hero Season 2 - Opening  Bring Back.mp3": [
+            0.0,
+            0.91
+        ],
+        "C:/Users/Mihai/Music/TV\u30a2\u30cb\u30e1\u300cRe\u30bc\u30ed\u304b\u3089\u59cb\u3081\u308b\u7570\u4e16\u754c\u751f\u6d3b\u300d2nd season \u5f8c\u671fED\u30c6\u30fc\u30de\u300cBelieve in you\u300d nonoc \u8996\u8074\u52d5\u753b.mp3": [
+            0.0,
+            1.0
+        ],
+        "C:/Users/Mihai/Music/Re  Zero kara Hajimeru Isekai Seikatsu OP  Opening 2 UHD   60FPS.mp3": [
+            0.0,
+            0.76
+        ],
+        "C:/Users/Mihai/Music/Demon Slayer - Opening 5  4K  60FPS  Tv-Size  CC.mp3": [
+            0.0,
+            0.78
+        ],
+        "C:/Users/Mihai/Music/SawanoHiroyuki[nZk]Honoka Takahashi\u300eLilaS\u300f\u00d7TV\u30a2\u30cb\u30e1\u300c\uff18\uff16\u2015\u30a8\u30a4\u30c6\u30a3\u30b7\u30c3\u30af\u30b9\u2015\u300dCollaboration Movie.mp3": [
+            0.08,
+            1.0
+        ],
+        "C:/Users/Mihai/Music/\u3010\u539f\u795e\u30a2\u30cb\u30e1\u3011\u80e1\u6843\u3067\u63a8\u3057\u306e\u5b50\u306eMV\u3092\u63cf\u3044\u3066\u307f\u305f\u3010Genshin Anime\u3011.mp3": [
+            0.0,
+            1.0
+        ],
+        "C:/Users/Mihai/Music/\u3010Cover MV\u3011 Team Tomodachi \u3010hololive English -Advent-\u3011.mp3": [
+            0.0,
+            1.0
+        ],
+        "C:/Users/Mihai/Music/Blazing Heart (feat. Mikako Komatsu) (Japanese Version).mp3": [
+            0.0,
+            1.0
+        ],
+        "C:/Users/Mihai/Music/Classroom of the Elite - Opening  Caste Room.mp3": [
+            0.0,
+            0.89
+        ],
+        "C:/Users/Mihai/Music/86 EIGHTY-SIX - Opening 1  3-bun 29-byo.mp3": [
+            0.0,
+            0.9
+        ],
+        "C:/Users/Mihai/Music/fategrand order \u7d76\u5bfe\u9b54\u7363\u6226\u7dda\u30d0\u30d3\u30ed\u30cb\u30a2\u3000op.mp3": [
+            0.0,
+            1.0
+        ],
+        "C:/Users/Mihai/Music/\u6653.mp3": [
+            0.0,
+            1.0
+        ],
+        "C:/Users/Mihai/Music/STAND PROUD.mp3": [
+            0.0,
+            1.0
+        ],
+        "C:/Users/Mihai/Music/The Quintessential Quintuplets Season 2 - Opening Full\u300eGotoubun no Katachi\u300fby Nakanoke no Itsutsugo.mp3": [
+            0.0,
+            1.0
+        ],
+        "C:/Users/Mihai/Music/The Rising of the Shield Hero - Opening 2 [4K 60FPS  Creditless  CC].mp3": [
+            0.0,
+            0.84
+        ],
+        "C:/Users/Mihai/Music/\u300cCreditless\u300dFrieren Beyond Journey's End OP  Opening 2\u300cUHD 60FPS\u300d.mp3": [
+            0.0,
+            0.73
+        ],
+        "C:/Users/Mihai/Music/King Gnu - SPECIALZ.mp3": [
+            0.0,
+            0.97
+        ],
+        "C:/Users/Mihai/Music/\u300cCreditless\u300dFateZero OP  Opening 1\u300cUHD 60FPS\u300d.mp3": [
+            0.0,
+            0.79
+        ],
+        "C:/Users/Mihai/Music/Falling in Reverse-Zombified (Audio).mp3": [
+            0.0,
+            1.0
+        ],
+        "C:/Users/Mihai/Music/Termination of Desires.mp3": [
+            0.0,
+            1.0
+        ],
+        "C:/Users/Mihai/Music/TV\u30a2\u30cb\u30e1\u300c\u30b8\u30e7\u30b8\u30e7\u306e\u5947\u5999\u306a\u5192\u967a\u300d OP2\u3000\u6620\u50cf.mp3": [
+            0.0,
+            1.0
+        ],
+        "C:/Users/Mihai/Music/\u300cCreditless\u300dCall of the Night OP  Opening\u300cUHD 60FPS\u300d.mp3": [
+            0.0,
+            1.0
+        ],
+        "C:/Users/Mihai/Music/\u300cCreditless\u300dOne Punch Man OP  Opening 2\u300cUHD 60FPS\u300d.mp3": [
+            0.0,
+            0.88
+        ],
+        "C:/Users/Mihai/Music/Attack on Titan Season 2 Opening  Shinzou wo Sasageyo!.mp3": [
+            0.01,
+            1.0
+        ],
+        "C:/Users/Mihai/Music/TV\u30a2\u30cb\u30e1\u300e\u76fe\u306e\u52c7\u8005\u306e\u6210\u308a\u4e0a\u304c\u308a Season 3\u300f\u30104K\u3011\u30ce\u30f3\u30af\u30ec\u30b8\u30c3\u30c8\u30aa\u30fc\u30d7\u30cb\u30f3\u30b0\u6620\u50cf\uff5cMADKID\u300cSIN\u300d.mp3": [
+            0.0,
+            1.0
+        ],
+        "C:/Users/Mihai/Music/Nightcore - Where We Started (Bass Boosted) [SSN Free Release].mp3": [
+            0.01,
+            0.98
+        ],
+        "C:/Users/Mihai/Music/FateApocrypha Opening 1 English Subtitles [HD 1080p] \u300eEGOIST - Eiyuu Unmei no Uta\u300f.mp3": [
+            0.0,
+            1.0
+        ],
+        "C:/Users/Mihai/Music/Novatio Novena.mp3": [
+            0.05,
+            1.0
+        ],
+        "C:/Users/Mihai/Music/\u300e\u8ee2\u751f\u6797\u6a8e\u300fCovered by Roselia\u00d7\uff0b\u03b1\uff0f\u3042\u308b\u3075\u3041\u304d\u3085\u3093\u3002PV\uff08\u30d5\u30eb\u30b5\u30a4\u30baver.\uff09\u3010\u30a8\u30af\u30b9\u30c8\u30e9\u697d\u66f2\u3011.mp3": [
+            0.0,
+            0.96
+        ],
+        "C:/Users/Mihai/Music/FateGrand Order Babylonia OP  Opening v1\u300cUHD 60FPS\u300d.mp3": [
+            0.0,
+            1.0
+        ],
+        "C:/Users/Mihai/Music/Imperial Circus Dead Decadence - \u9ec4\u6cc9\u3088\u308a\u8074\u3053\u3086\u3001\u7687\u56fd\u306e\u71c8\u3068\u7114\u306e\u5c11\u5973\u3002.mp3": [
+            0.0,
+            1.0
+        ],
+        "C:/Users/Mihai/Music/Vinland Saga Opening 1 60FPS  4K.mp3": [
+            0.0,
+            0.87
+        ],
+        "C:/Users/Mihai/Music/Death Note - Opening 2 [4K 60FPS  Creditless  CC].mp3": [
+            0.0,
+            0.73
+        ],
+        "C:/Users/Mihai/Music/Nightcore - \u00c9lan.mp3": [
+            0.0,
+            1.0
+        ],
+        "C:/Users/Mihai/Music/Vinland Saga OP  Opening 2 - Creditless  4K  60fps  Lyrics.mp3": [
+            0.0,
+            0.75
+        ],
+        "C:/Users/Mihai/Music/Nightcore - Bring Me To Life.mp3": [
+            0.0,
+            1.0
+        ],
+        "C:/Users/Mihai/Music/Ave Mujica - \u3075\u305f\u3064\u306e\u6708  ~Deep Into The Forest~ (Official Music Video).m4a": [
+            0.0,
+            0.97
+        ],
+        "C:/Users/Mihai/Music/It Has To Be This Way.mp3": [
+            0.0,
+            1.0
+        ],
+        "C:/Users/Mihai/Music/\u4e8c\u5343\u5e74... \u82e5\u3057\u304f\u306f...\u4e8c\u4e07\u5e74\u5f8c\u306e\u541b\u3078 To you, in 2000...or 20000( Attack on Titan Final Ending ) Shania Yan Cover.mp3": [
+            0.0,
+            0.97
+        ],
+        "C:/Users/Mihai/Music/Roselia\u00d7\u3044\u3068\u3046\u304b\u306a\u3053\u300e\u30b9\u30ab\u30a4\u30af\u30e9\u30c3\u30c9\u306e\u89b3\u6e2c\u8005\u300fPV\uff08\u30d5\u30eb\u30b5\u30a4\u30baver.\uff09\u3010\u30a8\u30af\u30b9\u30c8\u30e9\u697d\u66f2\u3011.m4a": [
+            0.0,
+            0.97
+        ],
+        "C:/Users/Mihai/Music/\u7c73\u6d25\u7384\u5e2b Kenshi Yonezu - KICKBACK.mp3": [
+            0.0,
+            0.85
+        ],
+        "C:/Users/Mihai/Music/\u308d\u3093\u308a\u306d\u3059\uff01 \u305f\u304b\u3084\u3093 (Official Music Video).mp3": [
+            0.0,
+            0.5
+        ],
+        "C:/Users/Mihai/Music/Kaguya-sama Love is War - Opening 1 [4K 60FPS  Creditless  CC].mp3": [
+            0.0,
+            0.73
+        ],
+        "C:/Users/Mihai/Music/Ave Mujica - Choir \u2018S\u2019 Choir (Official Music Video).m4a": [
+            0.0,
+            0.97
+        ]
+    },
+    "song_stats": {
+        "C:/Users/Mihai/Music/Shirasagi Princess.mp3": {
+            "duration": 144001,
+            "number_of_plays": 6
+        },
+        "C:/Users/Mihai/Music/Shingeki no Kyojin Season 3 Part 2 Op Attack on Titan Season 3 Part 2 Op \u300eHD\u300f.mp3": {
+            "duration": 89652,
+            "number_of_plays": 5
+        },
+        "C:/Users/Mihai/Music/It Has To Be This Way.mp3": {
+            "duration": 175507,
+            "number_of_plays": 9
+        },
+        "C:/Users/Mihai/Music/Ave Mujica - \u7d20\u6674\u3089\u3057\u304d\u4e16\u754c \u3067\u3082 \u3069\u3053\u306b\u3082\u306a\u3044\u5834\u6240 (Official Music Video).m4a": {
+            "duration": 269560,
+            "number_of_plays": 9
+        },
+        "C:/Users/Mihai/Music/Novatio Novena.mp3": {
+            "duration": 161112,
+            "number_of_plays": 5
+        },
+        "C:/Users/Mihai/Music/Vinland Saga - Opening 3  4K  60FPS  Creditless.mp3": {
+            "duration": 120953,
+            "number_of_plays": 5
+        },
+        "C:/Users/Mihai/Music/[ENG] Genshin CN 3rd Anniversary Light in the Abyss.mp3": {
+            "duration": 285141,
+            "number_of_plays": 14
+        },
+        "C:/Users/Mihai/Music/Wildfire.mp3": {
+            "duration": 218242,
+            "number_of_plays": 5
+        },
+        "C:/Users/Mihai/Music/Deus Ex Machina.mp3": {
+            "duration": 545885,
+            "number_of_plays": 8
+        },
+        "C:/Users/Mihai/Music/La Signora Battle Theme [All Phases] - Genshin Impact OST.mp3": {
+            "duration": 420119,
+            "number_of_plays": 5
+        },
+        "C:/Users/Mihai/Music/Metal Gear Rising Revengeance OST I'm My Own Master Now ACOUSTIC INTRO.mp3": {
+            "duration": 283005,
+            "number_of_plays": 7
+        },
+        "C:/Users/Mihai/Music/\u266bNightcore\u266b On My Own [Ashes Remain].mp3": {
+            "duration": 150047,
+            "number_of_plays": 4
+        },
+        "C:/Users/Mihai/Music/Nightcore - Courtesy Call.mp3": {
+            "duration": 183577,
+            "number_of_plays": 5
+        },
+        "C:/Users/Mihai/Music/Attack on Titan Opening 2  Jiyuu no Tsubasa by Linked Horizon.mp3": {
+            "duration": 89188,
+            "number_of_plays": 11
+        },
+        "C:/Users/Mihai/Music/\u3010\u63a8\u3057\u306e\u5b50\u3011STAR\u2606T\u2606RAIN\u65b0\u751fB\u5c0f\u753a\u3010\u7b2c\u5341\u4e00\u8a71\u300c\u30a2\u30a4\u30c9\u30eb\u300d\u633f\u5165\u6b4c\u3011.mp3": {
+            "duration": 94157,
+            "number_of_plays": 7
+        },
+        "C:/Users/Mihai/Music/TV\u30a2\u30cb\u30e1\u300cRe\u30bc\u30ed\u304b\u3089\u59cb\u3081\u308b\u7570\u4e16\u754c\u751f\u6d3b\u300d2nd season ED\u30c6\u30fc\u30de\u300cMemento\u300d\u30a2\u30cb\u30e1MV.mp3": {
+            "duration": 90117,
+            "number_of_plays": 8
+        },
+        "C:/Users/Mihai/Music/Nightcore - \u00c9lan.mp3": {
+            "duration": 247107,
+            "number_of_plays": 5
+        },
+        "C:/Users/Mihai/Music/Falling in Reverse-Zombified (Audio).mp3": {
+            "duration": 220102,
+            "number_of_plays": 15
+        },
+        "C:/Users/Mihai/Music/[Nightcore] Move On Hirose.mp3": {
+            "duration": 204591,
+            "number_of_plays": 17
+        },
+        "C:/Users/Mihai/Music/\u30d5\u30a1\u30bf\u30fc\u30eb  GEMN - Fatal  GEMN.mp3": {
+            "duration": 218198,
+            "number_of_plays": 4
+        },
+        "C:/Users/Mihai/Music/Gender mich am A.....mp3": {
+            "duration": 188345,
+            "number_of_plays": 4
+        },
+        "C:/Users/Mihai/Music/Attack on Titan Season 2 - Opening  Shinzou wo Sasageyo!.mp3": {
+            "duration": 88723,
+            "number_of_plays": 14
+        },
+        "C:/Users/Mihai/Music/\u300cCreditless\u300dFrieren Beyond Journey's End OP  Opening 1\u300cUHD 60FPS\u300d.mp3": {
+            "duration": 126317,
+            "number_of_plays": 6
+        },
+        "C:/Users/Mihai/Music/ReZero Kara Hajimeru Isekai Seikatsu Opening 1 Creditless.mp3": {
+            "duration": 91185,
+            "number_of_plays": 3
+        },
+        "C:/Users/Mihai/Music/Oshi no Ko - Opening Full\u300eIDOL\u300fby YOASOBI (Lyrics).mp3": {
+            "duration": 215319,
+            "number_of_plays": 7
+        },
+        "C:/Users/Mihai/Music/Blazing Heart (feat. Mikako Komatsu) (Japanese Version).mp3": {
+            "duration": 181000,
+            "number_of_plays": 22
+        },
+        "C:/Users/Mihai/Music/Ave Mujica - \u3075\u305f\u3064\u306e\u6708  ~Deep Into The Forest~ (Official Music Video).m4a": {
+            "duration": 181000,
+            "number_of_plays": 7
+        },
+        "C:/Users/Mihai/Music/Ave Mujica - \u9ed2\u306e\u30d0\u30fc\u30b9\u30c7\u30a4 (Official Music Video).m4a": {
+            "duration": 181000,
+            "number_of_plays": 10
+        },
+        "C:/Users/Mihai/Music/Nilou Theme Music EXTENDED - Dance of the Delicate Lotus (tnbee mix)  Genshin Impact.mp3": {
+            "duration": 184000,
+            "number_of_plays": 6
+        },
+        "C:/Users/Mihai/Music/Kaguya-sama Love Is War_ Opening Theme (Limited Time Only).mp3": {
+            "duration": 90000,
+            "number_of_plays": 8
+        },
+        "C:/Users/Mihai/Music/Nightcore - Burn It All Down (Lyrics).mp3": {
+            "duration": 180000,
+            "number_of_plays": 10
+        },
+        "C:/Users/Mihai/Music/The Rising of the Shield Hero Season 2 - Opening  Bring Back.mp3": {
+            "duration": 100000,
+            "number_of_plays": 7
+        },
+        "C:/Users/Mihai/Music/TV\u30a2\u30cb\u30e1\u300cRe\u30bc\u30ed\u304b\u3089\u59cb\u3081\u308b\u7570\u4e16\u754c\u751f\u6d3b\u300d2nd season \u5f8c\u671fED\u30c6\u30fc\u30de\u300cBelieve in you\u300d nonoc \u8996\u8074\u52d5\u753b.mp3": {
+            "duration": 90000,
+            "number_of_plays": 9
+        },
+        "C:/Users/Mihai/Music/\u7c73\u6d25\u7384\u5e2b Kenshi Yonezu - KICKBACK.mp3": {
+            "duration": 227000,
+            "number_of_plays": 6
+        },
+        "C:/Users/Mihai/Music/Lotus of Haftkarsvar.mp3": {
+            "duration": 106000,
+            "number_of_plays": 8
+        },
+        "C:/Users/Mihai/Music/Genshin Impact - Warden of the Oasis (God-Devouring Mania) Boss Fight Ost.mp3": {
+            "duration": 293000,
+            "number_of_plays": 11
+        },
+        "C:/Users/Mihai/Music/TV\u30a2\u30cb\u30e1\u300c\u9032\u6483\u306e\u5de8\u4eba\u300dThe Final Season Part 2\u30ce\u30f3\u30af\u30ec\u30b8\u30c3\u30c8OP \uff5cSiM\u300cThe Rumbling\u300d.mp3": {
+            "duration": 90000,
+            "number_of_plays": 5
+        },
+        "C:/Users/Mihai/Music/Fate Stay Night Unlimited Blade Works OP 01 IDEAL WHITE.mp3": {
+            "duration": 90000,
+            "number_of_plays": 4
+        },
+        "C:/Users/Mihai/Music/King Gnu - SPECIALZ.mp3": {
+            "duration": 241000,
+            "number_of_plays": 8
+        },
+        "C:/Users/Mihai/Music/Classroom of the Elite Season 2 - Opening  Dance in the Game.mp3": {
+            "duration": 100000,
+            "number_of_plays": 7
+        },
+        "C:/Users/Mihai/Music/\u300e\u50d5\u306e\u30d2\u30fc\u30ed\u30fc\u30a2\u30ab\u30c7\u30df\u30a2\u300f\u30d2\u30ed\u30a2\u30ab7\u671f\u7b2c2\u30af\u30fc\u30ebOP\u30ce\u30f3\u30af\u30ec\u30b8\u30c3\u30c8\u6620\u50cf\uff0fOP\u30c6\u30fc\u30de\uff1a\u300c\u30ab\u30fc\u30c6\u30f3\u30b3\u30fc\u30eb\u300d\u512a\u91cc.mp3": {
+            "duration": 96000,
+            "number_of_plays": 7
+        },
+        "C:/Users/Mihai/Music/SiM - UNDER THE TREE (Full Length Ver.) Anime Special Ver..mp3": {
+            "duration": 271000,
+            "number_of_plays": 4
+        },
+        "C:/Users/Mihai/Music/MADKID  SIN [Music Video] (TV\u30a2\u30cb\u30e1\u300c\u76fe\u306e\u52c7\u8005\u306e\u6210\u308a\u4e0a\u304c\u308a Season 3\u300d\u30aa\u30fc\u30d7\u30cb\u30f3\u30b0\u30c6\u30fc\u30de).mp3": {
+            "duration": 230000,
+            "number_of_plays": 11
+        },
+        "C:/Users/Mihai/Music/Jojo's Bizarre Adventure Diamond is Unbreakable - Opening 1 (Creditless)  [HD].mp3": {
+            "duration": 77000,
+            "number_of_plays": 6
+        },
+        "C:/Users/Mihai/Music/Focalors Sacrifice Theme (Sinner's Finale Cutscene)  Genshin Impact [HQ Cover].mp3": {
+            "duration": 177000,
+            "number_of_plays": 7
+        },
+        "C:/Users/Mihai/Music/TV\u30a2\u30cb\u30e1\u300cRe\u30bc\u30ed\u304b\u3089\u59cb\u3081\u308b\u7570\u4e16\u754c\u751f\u6d3b\u300d2nd season OP\u30c6\u30fc\u30de\u300cRealize\u300d\u30a2\u30cb\u30e1MV.mp3": {
+            "duration": 90000,
+            "number_of_plays": 7
+        },
+        "C:/Users/Mihai/Music/STAND PROUD.mp3": {
+            "duration": 278000,
+            "number_of_plays": 7
+        },
+        "C:/Users/Mihai/Music/Parasyte Opening.mp3": {
+            "duration": 89000,
+            "number_of_plays": 4
+        },
+        "C:/Users/Mihai/Music/Aimer \u300c\u6b8b\u97ff\u6563\u6b4c\u300d (Zankyou Sanka) Kimetsu no Yaiba Yuukaku-hen Opening Lyrics [Kan_Rom_Eng].mp3": {
+            "duration": 184000,
+            "number_of_plays": 3
+        },
+        "C:/Users/Mihai/Music/Oshi no Ko Opening 1 (4k 60FPS)\u2503Creditless.mp3": {
+            "duration": 109000,
+            "number_of_plays": 6
+        },
+        "C:/Users/Mihai/Music/Re  Zero kara Hajimeru Isekai Seikatsu OP  Opening 2 UHD   60FPS.mp3": {
+            "duration": 121000,
+            "number_of_plays": 6
+        },
+        "C:/Users/Mihai/Music/Demon Slayer Mugen Train Opening (Full) -Akeboshi- Lyrics.mp3": {
+            "duration": 264000,
+            "number_of_plays": 9
+        },
+        "C:/Users/Mihai/Music/Demon Slayer - Opening 5  4K  60FPS  Tv-Size  CC.mp3": {
+            "duration": 122000,
+            "number_of_plays": 9
+        },
+        "C:/Users/Mihai/Music/Emberfire (feat. \u5e0c\u6797\u5a1c\u4f9d\u9ad8).mp3": {
+            "duration": 170000,
+            "number_of_plays": 7
+        },
+        "C:/Users/Mihai/Music/\u300cCreditless\u300dFrieren Beyond Journey's End OP  Opening 2\u300cUHD 60FPS\u300d.mp3": {
+            "duration": 125000,
+            "number_of_plays": 9
+        },
+        "C:/Users/Mihai/Music/fategrand order \u7d76\u5bfe\u9b54\u7363\u6226\u7dda\u30d0\u30d3\u30ed\u30cb\u30a2\u3000op.mp3": {
+            "duration": 91000,
+            "number_of_plays": 6
+        },
+        "C:/Users/Mihai/Music/Death Note - Opening [4K].mp3": {
+            "duration": 80000,
+            "number_of_plays": 7
+        },
+        "C:/Users/Mihai/Music/Blazing Heart (English Version).mp3": {
+            "duration": 177000,
+            "number_of_plays": 6
+        },
+        "C:/Users/Mihai/Music/Redo.mp3": {
+            "duration": 258000,
+            "number_of_plays": 3
+        },
+        "C:/Users/Mihai/Music/FateStay Night Heaven's Feel III Spring Song OST The four rings.mp3": {
+            "duration": 257000,
+            "number_of_plays": 6
+        },
+        "C:/Users/Mihai/Music/\u3010\u539f\u795e\u30a2\u30cb\u30e1\u3011\u80e1\u6843\u3067\u63a8\u3057\u306e\u5b50\u306eMV\u3092\u63cf\u3044\u3066\u307f\u305f\u3010Genshin Anime\u3011.mp3": {
+            "duration": 89000,
+            "number_of_plays": 9
+        },
+        "C:/Users/Mihai/Music/SawanoHiroyuki[nZk]Laco\u300cFAKEit\u300dMusic Video Fatestrange Fake -Whispers of Dawn- ver..mp3": {
+            "duration": 174000,
+            "number_of_plays": 6
+        },
+        "C:/Users/Mihai/Music/Story Teaser La vaguelette  Genshin Impact.mp3": {
+            "duration": 159000,
+            "number_of_plays": 9
+        },
+        "C:/Users/Mihai/Music/No Ceiling.mp3": {
+            "duration": 130000,
+            "number_of_plays": 4
+        },
+        "C:/Users/Mihai/Music/1.2 Phantylia the Undying - All Phase Boss Fight OST  Honkai Star Rail.mp3": {
+            "duration": 367000,
+            "number_of_plays": 11
+        },
+        "C:/Users/Mihai/Music/New Years Day - Angel Eyes [HQ].mp3": {
+            "duration": 177000,
+            "number_of_plays": 9
+        },
+        "C:/Users/Mihai/Music/The Rising of the Shield Hero - Opening 2 [4K 60FPS  Creditless  CC].mp3": {
+            "duration": 122000,
+            "number_of_plays": 12
+        },
+        "C:/Users/Mihai/Music/The Rising of the Shield Hero - Opening 1 [4K 60FPS  Creditless  CC].mp3": {
+            "duration": 121000,
+            "number_of_plays": 5
+        },
+        "C:/Users/Mihai/Music/Nightcore - VILLAIN (Lyrics).mp3": {
+            "duration": 181000,
+            "number_of_plays": 8
+        },
+        "C:/Users/Mihai/Music/The Quintessential Quintuplets Season 2 - Opening Full\u300eGotoubun no Katachi\u300fby Nakanoke no Itsutsugo.mp3": {
+            "duration": 272000,
+            "number_of_plays": 5
+        },
+        "C:/Users/Mihai/Music/All Devouring Narwhal Boss Theme  OST  Genshin Impact.mp3": {
+            "duration": 300000,
+            "number_of_plays": 7
+        },
+        "C:/Users/Mihai/Music/\u308d\u3093\u308a\u306d\u3059\uff01 \u305f\u304b\u3084\u3093 (Official Music Video).mp3": {
+            "duration": 326000,
+            "number_of_plays": 5
+        },
+        "C:/Users/Mihai/Music/Elogia Cinerosa.mp3": {
+            "duration": 257000,
+            "number_of_plays": 6
+        },
+        "C:/Users/Mihai/Music/Stone Ocean OP 3 V2  4K 60 FPS  Heaven's Falling Down  JoJo's Bizarre Adventure Part 6.mp3": {
+            "duration": 95000,
+            "number_of_plays": 4
+        },
+        "C:/Users/Mihai/Music/\u25e4\u30ce\u30f3\u30af\u30ec\u30b8\u30c3\u30c8OP\u6620\u50cf\u25e2\u30a2\u30cb\u30e1\u300c\u795e\u306f\u904a\u622f\u306b\u98e2\u3048\u3066\u3044\u308b\u3002\u300d\uff5cAliA\u300cNewGame\u300d.mp3": {
+            "duration": 90000,
+            "number_of_plays": 5
+        },
+        "C:/Users/Mihai/Music/[Genshin Impact 2nd Anniversary] Epoch Winter Tales of the Fatui.mp3": {
+            "duration": 186000,
+            "number_of_plays": 4
+        },
+        "C:/Users/Mihai/Music/Vinland Saga OP  Opening 4 - Creditless  4K  60fps  Lyrics.mp3": {
+            "duration": 122000,
+            "number_of_plays": 6
+        },
+        "C:/Users/Mihai/Music/Classroom of the Elite Season 3 - Opening  Minor Piece.mp3": {
+            "duration": 100000,
+            "number_of_plays": 7
+        },
+        "C:/Users/Mihai/Music/Nightcore - GODS (Lyrics) (ft. NewJeans).mp3": {
+            "duration": 202000,
+            "number_of_plays": 6
+        },
+        "C:/Users/Mihai/Music/86 EIGHTY-SIX - Opening 1  3-bun 29-byo.mp3": {
+            "duration": 100000,
+            "number_of_plays": 8
+        },
+        "C:/Users/Mihai/Music/MAN WITH A MISSION\u00d7milet\u300c\u7d46\u30ce\u5947\u8de1\u300dMusic Video.mp3": {
+            "duration": 224000,
+            "number_of_plays": 4
+        },
+        "C:/Users/Mihai/Music/86 EIGHTY-SIX - Opening 2  Kyokaisen.mp3": {
+            "duration": 100000,
+            "number_of_plays": 7
+        },
+        "C:/Users/Mihai/Music/Echo - Preferatul T\u0103u (Videoclip Oficial).mp3": {
+            "duration": 184000,
+            "number_of_plays": 8
+        },
+        "C:/Users/Mihai/Music/Detarame Kidding.mp3": {
+            "duration": 197000,
+            "number_of_plays": 3
+        },
+        "C:/Users/Mihai/Music/SawanoHiroyuki[nZk]Laco\u300cHands Up to the Sky\u300dMusic Video \uff18\uff16\u2015\u30a8\u30a4\u30c6\u30a3\u30b7\u30c3\u30af\u30b9\u2015 ver..mp3": {
+            "duration": 212000,
+            "number_of_plays": 8
+        },
+        "C:/Users/Mihai/Music/medemede.mp3": {
+            "duration": 215000,
+            "number_of_plays": 12
+        },
+        "C:/Users/Mihai/Music/Vinland Saga Opening 1 60FPS  4K.mp3": {
+            "duration": 103000,
+            "number_of_plays": 10
+        },
+        "C:/Users/Mihai/Music/Polumnia Omnia.mp3": {
+            "duration": 200000,
+            "number_of_plays": 5
+        },
+        "C:/Users/Mihai/Music/Hiroyuki Sawano  \u201cAttack on Titan\u201d Vogel im k\u00e4fig live YOUSEEBIGGIRLTT.mp3": {
+            "duration": 192000,
+            "number_of_plays": 4
+        },
+        "C:/Users/Mihai/Music/Nightcore -  It's Over When It's Over.mp3": {
+            "duration": 199000,
+            "number_of_plays": 5
+        },
+        "C:/Users/Mihai/Music/EP Samudrartha  Honkai Star Rail.mp3": {
+            "duration": 187000,
+            "number_of_plays": 9
+        },
+        "C:/Users/Mihai/Music/Nightcore - Rise (Skillet) - (Lyrics).mp3": {
+            "duration": 193000,
+            "number_of_plays": 4
+        },
+        "C:/Users/Mihai/Music/\u300eSPY\u00d7FAMILY\u300f\u7b2c2\u30af\u30fc\u30eb\u30aa\u30fc\u30d7\u30cb\u30f3\u30b0\u4e3b\u984c\u6b4c\u30a2\u30cb\u30e1\u6620\u50cf(\u30ce\u30f3\u30af\u30ec\u30b8\u30c3\u30c8)\uff0f\u201cSPY x FAMILY\u201d part2  Opening theme song animation.mp3": {
+            "duration": 90000,
+            "number_of_plays": 11
+        },
+        "C:/Users/Mihai/Music/FateApocrypha Opening 1 English Subtitles [HD 1080p] \u300eEGOIST - Eiyuu Unmei no Uta\u300f.mp3": {
+            "duration": 95000,
+            "number_of_plays": 8
+        },
+        "C:/Users/Mihai/Music/\u300cCreditless\u300dCall of the Night OP  Opening\u300cUHD 60FPS\u300d.mp3": {
+            "duration": 102000,
+            "number_of_plays": 19
+        },
+        "C:/Users/Mihai/Music/POP IN 2.mp3": {
+            "duration": 267000,
+            "number_of_plays": 5
+        },
+        "C:/Users/Mihai/Music/[MV] REOL - \u30ae\u30df\u30a2\u30d6\u30ec\u30b9\u30bf\u30c3\u30ca\u30a6 Give me a break Stop now.mp3": {
+            "duration": 227000,
+            "number_of_plays": 4
+        },
+        "C:/Users/Mihai/Music/\u30e9\u30fb\u30bf\u30bf\u30f3.mp3": {
+            "duration": 214000,
+            "number_of_plays": 7
+        },
+        "C:/Users/Mihai/Music/[Genshin Music Anime] The Knave- Arlecchino Between Heaven and Hell.mp3": {
+            "duration": 154000,
+            "number_of_plays": 10
+        },
+        "C:/Users/Mihai/Music/SawanoHiroyuki[nZk]Honoka Takahashi\u300eLilaS\u300f\u00d7TV\u30a2\u30cb\u30e1\u300c\uff18\uff16\u2015\u30a8\u30a4\u30c6\u30a3\u30b7\u30c3\u30af\u30b9\u2015\u300dCollaboration Movie.mp3": {
+            "duration": 263000,
+            "number_of_plays": 11
+        },
+        "C:/Users/Mihai/Music/Attack on Titan S3 OST - Apple Seed (Extended).mp3": {
+            "duration": 358000,
+            "number_of_plays": 8
+        },
+        "C:/Users/Mihai/Music/\u300c\u304b\u3050\u3084\u69d8\u306f\u544a\u3089\u305b\u305f\u3044-\u30a6\u30eb\u30c8\u30e9\u30ed\u30de\u30f3\u30c6\u30a3\u30c3\u30af-\u300d\u30aa\u30fc\u30d7\u30cb\u30f3\u30b0\u6620\u50cf \u266a\u9234\u6728\u96c5\u4e4b feat. \u3059\u3045\u300cGIRI GIRI\u300d.mp3": {
+            "duration": 90000,
+            "number_of_plays": 3
+        },
+        "C:/Users/Mihai/Music/\u3086\u30fc\u308c\u3044\u305a\u307f\u30fc.mp3": {
+            "duration": 230000,
+            "number_of_plays": 5
+        },
+        "C:/Users/Mihai/Music/Hades - In the Blood (ft. Ashley Barrett).mp3": {
+            "duration": 250000,
+            "number_of_plays": 7
+        },
+        "C:/Users/Mihai/Music/5-toubun no Hanayome New Anime - Opening Full\u300eGotoubun no Mirai\u300fby Nakanoke no Itsutsugo.mp3": {
+            "duration": 247000,
+            "number_of_plays": 4
+        },
+        "C:/Users/Mihai/Music/\u3010Cover MV\u3011 Team Tomodachi \u3010hololive English -Advent-\u3011.mp3": {
+            "duration": 149000,
+            "number_of_plays": 14
+        },
+        "C:/Users/Mihai/Music/\u4e8c\u5343\u5e74... \u82e5\u3057\u304f\u306f...\u4e8c\u4e07\u5e74\u5f8c\u306e\u541b\u3078 To you, in 2000...or 20000( Attack on Titan Final Ending ) Shania Yan Cover.mp3": {
+            "duration": 168000,
+            "number_of_plays": 7
+        },
+        "C:/Users/Mihai/Music/JoJo's Bizarre Adventure  Phantom Blood - Opening 1 HD Creditless\u300eSono Chi No Sadame\u300f.mp3": {
+            "duration": 92000,
+            "number_of_plays": 6
+        },
+        "C:/Users/Mihai/Music/Inebriation of Raghs-e-Nilou.mp3": {
+            "duration": 108000,
+            "number_of_plays": 7
+        },
+        "C:/Users/Mihai/Music/[MV] REOL - \u5bb5\u3005\u53e4\u4eca  YoiYoi Kokon.mp3": {
+            "duration": 271000,
+            "number_of_plays": 2
+        },
+        "C:/Users/Mihai/Music/No Game No Life -My Master My Lord - Jibril Song.mp3": {
+            "duration": 287000,
+            "number_of_plays": 4
+        },
+        "C:/Users/Mihai/Music/\u6653.mp3": {
+            "duration": 191000,
+            "number_of_plays": 6
+        },
+        "C:/Users/Mihai/Music/Termination of Desires.mp3": {
+            "duration": 155000,
+            "number_of_plays": 10
+        },
+        "C:/Users/Mihai/Music/Kafka Theme Music EXTENDED - A Dramatic Irony (tnbee mix)  Honkai Star Rail.mp3": {
+            "duration": 229000,
+            "number_of_plays": 8
+        },
+        "C:/Users/Mihai/Music/Death Approaches.mp3": {
+            "duration": 109000,
+            "number_of_plays": 7
+        },
+        "C:/Users/Mihai/Music/Cepheid - Gaia (feat. Nonon & Sithu Aye).mp3": {
+            "duration": 261000,
+            "number_of_plays": 8
+        },
+        "C:/Users/Mihai/Music/\u3010\u6771\u65b9\u3011Foreground Eclipse\u300cI Bet You'll Forget That Even If You Noticed That\u300d (Subbed).mp3": {
+            "duration": 237000,
+            "number_of_plays": 7
+        },
+        "C:/Users/Mihai/Music/\u4e94\u7b49\u5206\u306e\u6c17\u6301\u3061.mp3": {
+            "duration": 222000,
+            "number_of_plays": 4
+        },
+        "C:/Users/Mihai/Music/Dance of Sabzeruz.mp3": {
+            "duration": 116000,
+            "number_of_plays": 5
+        },
+        "C:/Users/Mihai/Music/Attack on Titan - Opening 4  4K  60FPS  Creditless .mp3": {
+            "duration": 104000,
+            "number_of_plays": 6
+        },
+        "C:/Users/Mihai/Music/Nightcore- Royalty.mp3": {
+            "duration": 205000,
+            "number_of_plays": 3
+        },
+        "C:/Users/Mihai/Music/TV\u30a2\u30cb\u30e1\u300c\u30b8\u30e7\u30b8\u30e7\u306e\u5947\u5999\u306a\u5192\u967a\u300d OP2\u3000\u6620\u50cf.mp3": {
+            "duration": 91000,
+            "number_of_plays": 15
+        },
+        "C:/Users/Mihai/Music/Miss Kobayashi's Dragon Maid S Opening  Ai no Supreme!.mp3": {
+            "duration": 100000,
+            "number_of_plays": 9
+        },
+        "C:/Users/Mihai/Music/Nightcore - Awake and Alive [Skillet].mp3": {
+            "duration": 179000,
+            "number_of_plays": 3
+        },
+        "C:/Users/Mihai/Music/Classroom of the Elite - Opening  Caste Room.mp3": {
+            "duration": 100000,
+            "number_of_plays": 12
+        },
+        "C:/Users/Mihai/Music/Attack on Titan S3 OST - \u0259t\u02c8\u00e6k 0N t\u03ac\u026atn \uff1cWMId\uff1e.mp3": {
+            "duration": 346000,
+            "number_of_plays": 7
+        },
+        "C:/Users/Mihai/Music/TV\u30a2\u30cb\u30e1\u300e\u30ea\u30b3\u30ea\u30b9\u30fb\u30ea\u30b3\u30a4\u30eb\u300f\u30ce\u30f3\u30c6\u30ed\u30c3\u30d7OP\u30e0\u30fc\u30d3\u30fc\uff5cClariS\u300cALIVE\u300d.mp3": {
+            "duration": 90000,
+            "number_of_plays": 15
+        },
+        "C:/Users/Mihai/Music/Attack on Titan \u2013 Opening 2  Jiyuu no Tsubasa.mp3": {
+            "duration": 89000,
+            "number_of_plays": 8
+        },
+        "C:/Users/Mihai/Music/Cepheid - Lie of Providence (feat. @ZephyriannaCh).mp3": {
+            "duration": 260000,
+            "number_of_plays": 4
+        },
+        "C:/Users/Mihai/Music/\u300e\u30c7\u30fc\u30c8\u30fb\u30a2\u30fb\u30e9\u30a4\u30d6\u2162\u300f \u30aa\u30fc\u30d7\u30cb\u30f3\u30b0\u6620\u50cf\uff5c10\u5468\u5e74\u8a18\u5ff5\uff01\u30b7\u30ea\u30fc\u30ba\uff2f\uff30\u6620\u50cf\u30ea\u30d0\u30a4\u30d0\u30eb\u914d\u4fe1\uff01.mp3": {
+            "duration": 106000,
+            "number_of_plays": 6
+        },
+        "C:/Users/Mihai/Music/\u3010\u6771\u65b9\u3011Bad Apple!! \uff30\uff36\u3010\u5f71\u7d75\u3011.mp3": {
+            "duration": 219000,
+            "number_of_plays": 7
+        },
+        "C:/Users/Mihai/Music/The Final Feast.mp3": {
+            "duration": 210000,
+            "number_of_plays": 5
+        },
+        "C:/Users/Mihai/Music/Last Stardust.mp3": {
+            "duration": 318000,
+            "number_of_plays": 12
+        },
+        "C:/Users/Mihai/Music/Imperial Circus Dead Decadence - \u9ec4\u6cc9\u3088\u308a\u8074\u3053\u3086\u3001\u7687\u56fd\u306e\u71c8\u3068\u7114\u306e\u5c11\u5973\u3002.mp3": {
+            "duration": 501000,
+            "number_of_plays": 7
+        },
+        "C:/Users/Mihai/Music/TV\u30a2\u30cb\u30e1\u300e\u30c7\u30fc\u30c8\u30fb\u30a2\u30fb\u30e9\u30a4\u30d6V\u300f\u30ce\u30f3\u30af\u30ec\u30b8\u30c3\u30c8\u30aa\u30fc\u30d7\u30cb\u30f3\u30b0\u30c6\u30fc\u30de\u6620\u50cf\uff5c\u5bcc\u7530\u7f8e\u6182\u300cParadoxes\u300d.mp3": {
+            "duration": 90000,
+            "number_of_plays": 4
+        },
+        "C:/Users/Mihai/Music/\u3010\u63a8\u3057\u306e\u5b50\u3011\u7b2c2\u671f\u30ce\u30f3\u30af\u30ec\u30b8\u30c3\u30c8\u30aa\u30fc\u30d7\u30cb\u30f3\u30b0\uff5cGEMN\u300c\u30d5\u30a1\u30bf\u30fc\u30eb\u300d.mp3": {
+            "duration": 90000,
+            "number_of_plays": 6
+        },
+        "C:/Users/Mihai/Music/\u300e\u8ee2\u751f\u6797\u6a8e\u300fCovered by Roselia\u00d7\uff0b\u03b1\uff0f\u3042\u308b\u3075\u3041\u304d\u3085\u3093\u3002PV\uff08\u30d5\u30eb\u30b5\u30a4\u30baver.\uff09\u3010\u30a8\u30af\u30b9\u30c8\u30e9\u697d\u66f2\u3011.mp3": {
+            "duration": 231000,
+            "number_of_plays": 12
+        },
+        "C:/Users/Mihai/Music/Kimetsu no Yaiba Season 3 - Opening FULL Kizuna no Kiseki by MAN WITH A MISSION x milet (Lyrics).mp3": {
+            "duration": 223000,
+            "number_of_plays": 4
+        },
+        "C:/Users/Mihai/Music/JoJo's Bizarre Adventure  Opening 7 - Great Days  4K Creditless HD.mp3": {
+            "duration": 82000,
+            "number_of_plays": 5
+        },
+        "C:/Users/Mihai/Music/Note of Effective Settlements.mp3": {
+            "duration": 90000,
+            "number_of_plays": 5
+        },
+        "C:/Users/Mihai/Music/A Dramatic Irony.mp3": {
+            "duration": 112000,
+            "number_of_plays": 7
+        },
+        "C:/Users/Mihai/Music/TV\u30a2\u30cb\u30e1\u300c\u30c7\u30fc\u30c8\u30fb\u30a2\u30fb\u30e9\u30a4\u30d6\u2163\u300d\u30ce\u30f3\u30af\u30ec\u30b8\u30c3\u30c8OP\u6620\u50cf\uff5c\u5bcc\u7530\u7f8e\u6182\u300cOveR\u300d.mp3": {
+            "duration": 90000,
+            "number_of_plays": 7
+        },
+        "C:/Users/Mihai/Music/\u300cCreditless\u300dFateZero OP  Opening 1\u300cUHD 60FPS\u300d.mp3": {
+            "duration": 116000,
+            "number_of_plays": 3
+        },
+        "C:/Users/Mihai/Music/\u300e\u30c7\u30fc\u30c8\u30fb\u30a2\u30fb\u30e9\u30a4\u30d6\u2161\u300f \u30aa\u30fc\u30d7\u30cb\u30f3\u30b0\u6620\u50cf\uff5c10\u5468\u5e74\u8a18\u5ff5\uff01\u30b7\u30ea\u30fc\u30ba\uff2f\uff30\u6620\u50cf\u30ea\u30d0\u30a4\u30d0\u30eb\u914d\u4fe1\uff01.mp3": {
+            "duration": 110000,
+            "number_of_plays": 5
+        },
+        "C:/Users/Mihai/Music/\u3010Shiki Miyoshino  \u7f8e\u5409\u91ce\u3057\u304d\u3011I wanna kill you  \u6b7b\u306b\u305f\u3044\u3088\u308a\u6d88\u3048\u305f\u3044\u4eba\u306e\u66f2 - Takayan\u3010Cover\u3011.mp3": {
+            "duration": 102000,
+            "number_of_plays": 1
+        },
+        "C:/Users/Mihai/Music/\u30a2\u30cb\u30e1\u300c\u30b8\u30e7\u30b8\u30e7\u306e\u5947\u5999\u306a\u5192\u967a \u30b9\u30c8\u30fc\u30f3\u30aa\u30fc\u30b7\u30e3\u30f3\u300dOP\u6620\u50cf.mp3": {
+            "duration": 90000,
+            "number_of_plays": 6
+        },
+        "C:/Users/Mihai/Music/\u521d\u661f\u5b66\u5712 \u300cFighting My Way\u300dOfficial Music Video (HATSUBOSHI GAKUEN - Fighting My Way).mp3": {
+            "duration": 200000,
+            "number_of_plays": 6
+        },
+        "C:/Users/Mihai/Music/Aimer \u300c\u6b8b\u97ff\u6563\u6b4c\u300d (Zankyou Sanka) Kimetsu no Yaiba Yuukaku-hen Opening Lyrics [KanRomEng].mp3": {
+            "duration": 184000,
+            "number_of_plays": 3
+        },
+        "C:/Users/Mihai/Music/Attack on Titan Opening 6 \u2014 My War [1080p 60FPS].mp3": {
+            "duration": 90000,
+            "number_of_plays": 4
+        },
+        "C:/Users/Mihai/Music/Attack on Titan Season 2 Opening  Shinzou wo Sasageyo!.mp3": {
+            "duration": 88000,
+            "number_of_plays": 4
+        },
+        "C:/Users/Mihai/Music/Blossoms of Summer Night.mp3": {
+            "duration": 99000,
+            "number_of_plays": 3
+        },
+        "C:/Users/Mihai/Music/Cepheid - Catch Wind (feat. @un3hcorn ) [Touhou Arrange].mp3": {
+            "duration": 241000,
+            "number_of_plays": 5
+        },
+        "C:/Users/Mihai/Music/Cepheid - Goddess (feat. Nonon).mp3": {
+            "duration": 205000,
+            "number_of_plays": 5
+        },
+        "C:/Users/Mihai/Music/Cepheid - Tides (feat. @ZephyriannaCh & @unit.0 ).mp3": {
+            "duration": 239000,
+            "number_of_plays": 4
+        },
+        "C:/Users/Mihai/Music/Coda - Fighting Gold Creditless FullHD.mp3": {
+            "duration": 91000,
+            "number_of_plays": 5
+        },
+        "C:/Users/Mihai/Music/Date A Live - Opening  Date a Live.mp3": {
+            "duration": 103000,
+            "number_of_plays": 4
+        },
+        "C:/Users/Mihai/Music/Death Note - Opening 2 [4K 60FPS  Creditless  CC].mp3": {
+            "duration": 112000,
+            "number_of_plays": 10
+        },
+        "C:/Users/Mihai/Music/FateApocrypha Opening 2 English Subtitles [HD 1080p] \u300eLiSA - ASH\u300f.mp3": {
+            "duration": 90000,
+            "number_of_plays": 6
+        },
+        "C:/Users/Mihai/Music/FateGrand Order Babylonia OP  Opening v1\u300cUHD 60FPS\u300d.mp3": {
+            "duration": 102000,
+            "number_of_plays": 6
+        },
+        "C:/Users/Mihai/Music/Fatestay night Heaven's Feel III spring song OST - They Rule the battle field -Suite-.mp3": {
+            "duration": 430000,
+            "number_of_plays": 3
+        },
+        "C:/Users/Mihai/Music/Fatestay night [Unlimited Blade Works] Aimer - Brave Shine [4K].mp3": {
+            "duration": 109000,
+            "number_of_plays": 4
+        },
+        "C:/Users/Mihai/Music/GRIMOIRE.mp3": {
+            "duration": 221000,
+            "number_of_plays": 6
+        },
+        "C:/Users/Mihai/Music/Holy Shit.mp3": {
+            "duration": 144000,
+            "number_of_plays": 8
+        },
+        "C:/Users/Mihai/Music/JoJo's Bizarre Adventure  Opening 6 - chase  4K Creditless HD.mp3": {
+            "duration": 72000,
+            "number_of_plays": 2
+        },
+        "C:/Users/Mihai/Music/JoJo's Bizarre Adventure Opening 4 Full\u300eSONO CHI NO KIOKU ~END OF THE WORLD~\u300f.mp3": {
+            "duration": 297000,
+            "number_of_plays": 7
+        },
+        "C:/Users/Mihai/Music/JoJo's Bizarre Adventure Opening 9 Full\u300eTRAITOR'S REQUIEM\u300f.mp3": {
+            "duration": 262000,
+            "number_of_plays": 3
+        },
+        "C:/Users/Mihai/Music/Kaguya-sama Love is War - Opening 1 [4K 60FPS  Creditless  CC].mp3": {
+            "duration": 124000,
+            "number_of_plays": 9
+        },
+        "C:/Users/Mihai/Music/Kaguya-sama Love Is War Opening Theme (Limited Time Only).mp3": {
+            "duration": 90000,
+            "number_of_plays": 2
+        },
+        "C:/Users/Mihai/Music/LiSA (\u7e54\u90e8 \u91cc\u6c99) - 'Gurenge' Lyrics [Color Coded KanRomIta].mp3": {
+            "duration": 238000,
+            "number_of_plays": 4
+        },
+        "C:/Users/Mihai/Music/Lord of Eroded Primal Fire \u2022 Archon Quest Exclusive Phase Boss Theme  Genshin Impact 5.3 OST.mp3": {
+            "duration": 235000,
+            "number_of_plays": 9
+        },
+        "C:/Users/Mihai/Music/MADKID  SIN Music Video (TV\u30a2\u30cb\u30e1\u300c\u76fe\u306e\u52c7\u8005\u306e\u6210\u308a\u4e0a\u304c\u308a Season 3\u300d\u30aa\u30fc\u30d7\u30cb\u30f3\u30b0\u30c6\u30fc\u30de).mp3": {
+            "duration": 230000,
+            "number_of_plays": 3
+        },
+        "C:/Users/Mihai/Music/Non si levava ancor.mp3": {
+            "duration": 129000,
+            "number_of_plays": 3
+        },
+        "C:/Users/Mihai/Music/Miss Kobayashi's Dragon Maid S - Opening  Ai no Supreme!.mp3": {
+            "duration": 100000,
+            "number_of_plays": 6
+        },
+        "C:/Users/Mihai/Music/\u300cCreditless\u300dOne Punch Man OP  Opening 2\u300cUHD 60FPS\u300d.mp3": {
+            "duration": 102000,
+            "number_of_plays": 13
+        },
+        "C:/Users/Mihai/Music/Nightcore - Where We Started (Bass Boosted) [SSN Free Release].mp3": {
+            "duration": 199000,
+            "number_of_plays": 6
+        },
+        "C:/Users/Mihai/Music/Time to Shine.mp3": {
+            "duration": 148000,
+            "number_of_plays": 4
+        },
+        "C:/Users/Mihai/Music/The Almighty Violet Thunder \u2014 Magatsu Mitake Narukami no Mikoto Boss Theme  Genshin Impact OST.mp3": {
+            "duration": 204000,
+            "number_of_plays": 5
+        },
+        "C:/Users/Mihai/Music/Nightcore - In The Middle Of The Night [HD].mp3": {
+            "duration": 259000,
+            "number_of_plays": 2
+        },
+        "C:/Users/Mihai/Music/Mirai NikkiFuture Diary - Opening 1 - HD - With Lyrics.mp3": {
+            "duration": 88000,
+            "number_of_plays": 3
+        },
+        "C:/Users/Mihai/Music/Todesliste.mp3": {
+            "duration": 176000,
+            "number_of_plays": 2
+        },
+        "C:/Users/Mihai/Music/TV\u30a2\u30cb\u30e1\u300c\u304b\u3050\u3084\u69d8\u306f\u544a\u3089\u305b\u305f\u3044-\u30d5\u30a1\u30fc\u30b9\u30c8\u30ad\u30c3\u30b9\u306f\u7d42\u308f\u3089\u306a\u3044-\u300d\u30ce\u30f3\u30af\u30ec\u30b8\u30c3\u30c8\u30aa\u30fc\u30d7\u30cb\u30f3\u30b0\u6620\u50cf  \u300cLove is Show\u300d#\u9234\u6728\u96c5\u4e4b feat. #\u9ad8\u57ce\u308c\u306b.mp3": {
+            "duration": 90000,
+            "number_of_plays": 6
+        },
+        "C:/Users/Mihai/Music/Nightcore - Poylow, Harry Taylor, MAD SNAX - Drop In The Ocean - [Lyrics].mp3": {
+            "duration": 155000,
+            "number_of_plays": 2
+        },
+        "C:/Users/Mihai/Music/TV\u30a2\u30cb\u30e1\u300e\u76fe\u306e\u52c7\u8005\u306e\u6210\u308a\u4e0a\u304c\u308a Season 3\u300f\u30104K\u3011\u30ce\u30f3\u30af\u30ec\u30b8\u30c3\u30c8\u30aa\u30fc\u30d7\u30cb\u30f3\u30b0\u6620\u50cf\uff5cMADKID\u300cSIN\u300d.mp3": {
+            "duration": 90000,
+            "number_of_plays": 6
+        },
+        "C:/Users/Mihai/Music/Nightcore - Bring Me To Life.mp3": {
+            "duration": 202000,
+            "number_of_plays": 6
+        },
+        "C:/Users/Mihai/Music/Tokoshie.mp3": {
+            "duration": 261000,
+            "number_of_plays": 5
+        },
+        "C:/Users/Mihai/Music/One Punch Man - Official Opening - The Hero!! Set Fire to the Furious Fist.mp3": {
+            "duration": 89000,
+            "number_of_plays": 7
+        },
+        "C:/Users/Mihai/Music/Nightcore - The Escapist.mp3": {
+            "duration": 235000,
+            "number_of_plays": 4
+        },
+        "C:/Users/Mihai/Music/Takayan - Cheating is a crime (\u6b4c\u8a5e\u30d3\u30c7\u30aa).mp3": {
+            "duration": 109000,
+            "number_of_plays": 3
+        },
+        "C:/Users/Mihai/Music/Raiden Shogun Battle Theme [All Phases] - Genshin Impact OST.mp3": {
+            "duration": 492000,
+            "number_of_plays": 3
+        },
+        "C:/Users/Mihai/Music/Nightcore - MONSTER - (Lyrics).mp3": {
+            "duration": 174000,
+            "number_of_plays": 2
+        },
+        "C:/Users/Mihai/Music/Kaguya-sama Love Is War Opening Theme (Limited Time Only).m4a": {
+            "duration": 90000,
+            "number_of_plays": 2
+        },
+        "C:/Users/Mihai/Music/The Quintessential Quintuplets Movie - Theme Song Full\u300eGotoubun no Kiseki\u300fby Nakanoke no Itsutsugo.mp3": {
+            "duration": 283000,
+            "number_of_plays": 2
+        },
+        "C:/Users/Mihai/Music/\u3010Original\u3011Countach\u8f5f\u306f\u3058\u3081\u3010Official MV\u3011.m4a": {
+            "duration": 197000,
+            "number_of_plays": 9
+        },
+        "C:/Users/Mihai/Music/Vinland Saga OP  Opening 2 - Creditless  4K  60fps  Lyrics.mp3": {
+            "duration": 122000,
+            "number_of_plays": 6
+        },
+        "C:/Users/Mihai/Music/The Future Diary - Ending 1 \u3010Blood Teller\u3011 4K  UHD Creditless  CC.mp3": {
+            "duration": 124000,
+            "number_of_plays": 6
+        },
+        "C:/Users/Mihai/Music/\u3010\u516c\u5f0f\u30e9\u30a4\u30d6\u6620\u50cf\u3011Ave Mujica\u300cKiLLKiSS\u300d\uff08Ave Mujica 4th LIVE\u300cAdventus\u300d\uff09\u3010\u671f\u9593\u9650\u5b9a\u3011.m4a": {
+            "duration": 261000,
+            "number_of_plays": 8
+        },
+        "C:/Users/Mihai/Music/Nightcore - The Resistance (Skillet) - (Lyrics).mp3": {
+            "duration": 162000,
+            "number_of_plays": 2
+        },
+        "C:/Users/Mihai/Music/Aimer \u300c\u6b8b\u97ff\u6563\u6b4c\u300d (Zankyou Sanka) Kimetsu no Yaiba Yuukaku-hen Opening Lyrics [Kan_Rom_Eng].m4a": {
+            "duration": 184000,
+            "number_of_plays": 1
+        },
+        "C:/Users/Mihai/Music/TV\u30a2\u30cb\u30e1\u300e\u76fe\u306e\u52c7\u8005\u306e\u6210\u308a\u4e0a\u304c\u308a Season 3\u300f\u30ce\u30f3\u30af\u30ec\u30b8\u30c3\u30c8\u30a8\u30f3\u30c7\u30a3\u30f3\u30b0\u6620\u50cf\uff5c\u85e4\u5ddd\u5343\u611b\u300c\u597d\u304d\u306b\u306a\u3063\u3066\u306f\u3044\u3051\u306a\u3044\u7406\u7531\u300d.mp3": {
+            "duration": 90000,
+            "number_of_plays": 2
+        },
+        "C:/Users/Mihai/Music/\u3010MV\u3011Odyssey - Hololive English (Original Song).m4a": {
+            "duration": 240000,
+            "number_of_plays": 5
+        },
+        "C:/Users/Mihai/Music/\u6653.m4a": {
+            "duration": 191000,
+            "number_of_plays": 3
+        },
+        "C:/Users/Mihai/Music/Whirling of Vairambhaka.mp3": {
+            "duration": 72000,
+            "number_of_plays": 1
+        },
+        "C:/Users/Mihai/Music/Attack on Titan Opening 1  Feuerroter Pfeil und Bogen.m4a": {
+            "duration": 92000,
+            "number_of_plays": 2
+        },
+        "C:/Users/Mihai/Music/My Hero Academia Opening 1  The Day.mp3": {
+            "duration": 90000,
+            "number_of_plays": 1
+        },
+        "C:/Users/Mihai/Music/Nippy Bout.m4a": {
+            "duration": 158000,
+            "number_of_plays": 1
+        },
+        "C:/Users/Mihai/Music/TV\u30a2\u30cb\u30e1\u300cRe\u30bc\u30ed\u304b\u3089\u59cb\u3081\u308b\u7570\u4e16\u754c\u751f\u6d3b\u300d2nd season \u5f8c\u671fOP\u30c6\u30fc\u30de\u300cLong shot\u300d\u524d\u5cf6\u9ebb\u7531 \u30a2\u30cb\u30e1\u8996\u8074\u52d5\u753b.mp3": {
+            "duration": 89000,
+            "number_of_plays": 3
+        },
+        "C:/Users/Mihai/Music/Rage Beneath the Mountains.mp3": {
+            "duration": 210000,
+            "number_of_plays": 5
+        },
+        "C:/Users/Mihai/Music/Ave Mujica - Choir \u2018S\u2019 Choir (Official Music Video).m4a": {
+            "duration": 288000,
+            "number_of_plays": 8
+        },
+        "C:/Users/Mihai/Music/Roselia\u00d7\u3044\u3068\u3046\u304b\u306a\u3053\u300e\u30b9\u30ab\u30a4\u30af\u30e9\u30c3\u30c9\u306e\u89b3\u6e2c\u8005\u300fPV\uff08\u30d5\u30eb\u30b5\u30a4\u30baver.\uff09\u3010\u30a8\u30af\u30b9\u30c8\u30e9\u697d\u66f2\u3011.m4a": {
+            "duration": 282000,
+            "number_of_plays": 5
+        },
+        "C:/Users/Mihai/Music/No Dazzle, No Break.m4a": {
+            "duration": 138000,
+            "number_of_plays": 3
+        }
+    },
+    "total_played_counter": 20613816
+}
